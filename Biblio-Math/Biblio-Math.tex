@@ -2,6 +2,15 @@
 % !TEX TS-program = xelatex
 % !BIB TS-program = bibtex
 \documentclass[12pt]{article}
+\usepackage[
+%  paperwidth=210mm,% a4:{210mm,297mm}
+%  paperheight=297mm,
+  headheight=1ex,
+  left=1.5cm,
+  right=1.5cm,
+  top=1.5cm,
+  bottom=2.5cm
+]{geometry}
 \usepackage{ifxetex} % load different packages with/without XeLaTex
 \ifxetex
    \usepackage{fontspec}
@@ -15,7 +24,7 @@
 %\usepackage[french,english]{babel}% change order for References v. Références
 %\addto{\extrasenglish}{\renewcommand{\bibname}{References: Math/General/Read}}
 
-\renewcommand{\refname}{References: Math/General}
+\renewcommand{\refname}{Math/General}
 
 \usepackage{natbib}
 \bibliographystyle{plain}

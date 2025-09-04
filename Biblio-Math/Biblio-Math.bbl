@@ -35,6 +35,11 @@ Calvin~C. Clawson.
 \newblock {\em Mathematical Mysteries: The Beauty and Magic of Numbers}.
 \newblock Basic Books, 1999.
 
+\bibitem{Conway:Guy:1995}
+John~H. Conway and Richard~K. Guy.
+\newblock {\em The Book of Numbers}.
+\newblock Copernicus, 1995.
+
 \bibitem{Derbyshire:2003}
 John Derbyshire.
 \newblock {\em Prime Obsession: Bernhard Riemann and the Greatest Unsolved
@@ -183,6 +188,12 @@ David~S. Richeson.
 \newblock {\em Tales of Impossibility: The 2000-Year Quest to Solve the
   Mathematical Problems of Antiquity}.
 \newblock Princeton University Press, 2019.
+
+\bibitem{Sabbagh:2002}
+Karl Sabbagh.
+\newblock {\em The Riemann Hypothesis: The Greatest Unsolved Problem in
+  Mathematics}.
+\newblock Farrar, Straus and Giroux, 2002.
 
 \bibitem{Seife:2000}
 Charles Seife.
