@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2025)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Biblio-Math.aux
+The style file: plain.bst
+Database file #1: BibMath.bib
+Repeated entry---line 465 of file BibMath.bib
+ : @book{Maor:1998
+ :                ,
+I'm skipping whatever remains of this entry
+You've used 43 entries,
+            2118 wiz_defined-function locations,
+            702 strings with 8266 characters,
+and the built_in function-call counts, 9453 in all, are:
+= -- 831
+> -- 325
+< -- 0
++ -- 154
+- -- 94
+* -- 364
+:= -- 1670
+add.period$ -- 129
+call.type$ -- 43
+change.case$ -- 134
+chr.to.int$ -- 0
+cite$ -- 43
+duplicate$ -- 516
+empty$ -- 947
+format.name$ -- 94
+if$ -- 2009
+int.to.chr$ -- 0
+int.to.str$ -- 43
+missing$ -- 86
+newline$ -- 218
+num.names$ -- 86
+pop$ -- 347
+preamble$ -- 1
+purify$ -- 133
+quote$ -- 0
+skip$ -- 261
+stack$ -- 0
+substring$ -- 232
+swap$ -- 43
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 86
+warning$ -- 0
+while$ -- 86
+width$ -- 45
+write$ -- 433
+(There was 1 error message)
