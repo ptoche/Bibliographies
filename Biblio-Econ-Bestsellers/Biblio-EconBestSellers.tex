@@ -1,0 +1,134 @@
+% !TEX TS-program = xelatex
+% !BIB TS-program = bibtex
+\documentclass[12pt]{article}
+\usepackage[
+%  paperwidth=210mm,% a4:{210mm,297mm}
+%  paperheight=297mm,
+  headheight=1ex,
+  left=1.5cm,
+  right=1.5cm,
+  top=1.5cm,
+  bottom=2.5cm
+]{geometry}
+\usepackage{ifxetex} % load different packages with/without XeLaTex
+\ifxetex
+  \usepackage{fontspec}
+\else  % not needed with utf8 based engines
+  \usepackage[utf8]{inputenc}
+  \usepackage[T1]{fontenc}
+  \usepackage{lmodern}
+\fi%
+\usepackage{amsmath,amssymb}% amssymb loads amsfonts
+\usepackage{latexsym,mathrsfs,textcomp}
+\usepackage{url}
+
+\usepackage{bibtopic}%Run bibtex on bt1.aux, etc.!!
+\usepackage{natbib}
+\bibliographystyle{plain}
+\renewcommand{\thebtauxfile}{bt\arabic{btauxfile}}
+%Use: \btPrintCited%\btPrintNotCited%\btPrintAll
+
+\begin{document}
+
+\section*{Economics \& Finance/General}
+\subsection*{Classic Texts}
+\begin{btUnit}
+\begin{btSect}{BibEconBestsellers}
+\nocite{Friedman:1962}
+\nocite{Friedman:Friedman:1980}
+\nocite{Friedman:1992}
+\nocite{Galbraith:1954}
+\nocite{Galbraith:1994}
+\nocite{Galbraith:1958}
+\nocite{Hayek:2007}
+\nocite{Hayek:1960}
+\nocite{Keynes:1936}
+\nocite{Kindleberger:1978}
+\nocite{Landes:1998}
+\nocite{Mises:1949}
+\nocite{Rawls:1971}
+\nocite{Solow:2000}
+\nocite{Smith:1776}
+\btPrintCited
+\end{btSect}
+\end{btUnit}
+
+\subsection*{Modern Texts}
+\begin{btUnit}
+\begin{btSect}{BibEconBestsellers}
+\nocite{Acemoglu:Robinson:2012}
+\nocite{Ahamed:2009}
+\nocite{Ariely:2008}
+\nocite{Akerlof:Shiller:2009}
+\nocite{Banerjee:Duflo:2019}
+\nocite{Banerjee:Duflo:2012}
+\nocite{Bernanke:2015}
+\nocite{Blinder:2013}
+\nocite{Bowmaker:2006}
+\nocite{Buchholz:1996}
+\nocite{Buchholz:1989}
+\nocite{Caplan:2007}
+\nocite{Collier:2009}
+\nocite{Collier:2007}
+\nocite{Dixit:Nalebuff:1991}
+\nocite{Easterly:2008}
+\nocite{Easterly:2006}
+\nocite{Easterly:2001}
+\nocite{Frank:2008}
+\nocite{Friedman:2008}
+\nocite{Friedman:2005}
+\nocite{Friedman:1996}
+\nocite{Geithner:2015}
+\nocite{Gladwell:2008}
+\nocite{Gladwell:2000}
+\nocite{Harcourt:2008}
+\nocite{Harford:2020}
+\nocite{Harford:2005}
+\nocite{Hazlitt:1946}
+\nocite{Heilbroner:1953}
+\nocite{Helpman:2004}
+\nocite{Johnson:Kwak:2010}
+\nocite{Kay:2004}
+\nocite{Kay:2003}
+\nocite{Kahneman:2011}
+\nocite{Klein:Thompson:2025}
+\nocite{Krugman:2008}
+\nocite{Krugman:1998}
+\nocite{Krugman:1996}
+\nocite{Landsburg:1993}
+\nocite{Levitt:Dubner:2009}
+\nocite{Levitt:Dubner:2005}
+\nocite{Lowenstein:2000}
+\nocite{McDonald:Robinson:2009}
+\nocite{Mian:Sufi:2014}
+\nocite{Olson:1982}
+\nocite{Piketty:2020:Ideology}
+\nocite{Piketty:2014:Capital21c}
+\nocite{Reinhart:Rogoff:2009}
+\nocite{Ritholtz:2009}
+\nocite{Roberts:2008}
+\nocite{Rogoff:2025}
+\nocite{Rodrik:2007}
+\nocite{Roubini:Mihm:2010}
+\nocite{Sachs:2008}
+\nocite{Sachs:2005}
+\nocite{Saez:Zucman:2019}
+\nocite{Schelling:1978}
+\nocite{Sen:1999}
+\nocite{Shiller:2003}
+\nocite{Shiller:2000}
+\nocite{Smith:2009}
+\nocite{Soto:2000}
+\nocite{Sorkin:2009}
+\nocite{Stiglitz:2006}
+\nocite{Stiglitz:2003}
+\nocite{Stiglitz:2002}
+\nocite{Thaler:2016}
+\nocite{Thaler:Sunstein:2008}
+\nocite{Wheelan:2002}
+\nocite{Zucman:2024}
+\btPrintCited
+\end{btSect}
+\end{btUnit}
+
+\end{document}

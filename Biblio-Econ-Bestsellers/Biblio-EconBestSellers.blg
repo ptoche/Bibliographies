@@ -1,0 +1,113 @@
+This is BibTeX, Version 0.99d (TeX Live 2025)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Biblio-EconBestSellers.aux
+The style file: plain.bst
+I found no \bibdata command---while reading file Biblio-EconBestSellers.aux
+Warning--I didn't find a database entry for "Friedman:1962"
+Warning--I didn't find a database entry for "Friedman:Friedman:1980"
+Warning--I didn't find a database entry for "Friedman:1992"
+Warning--I didn't find a database entry for "Galbraith:1954"
+Warning--I didn't find a database entry for "Galbraith:1994"
+Warning--I didn't find a database entry for "Galbraith:1958"
+Warning--I didn't find a database entry for "Hayek:2007"
+Warning--I didn't find a database entry for "Hayek:1960"
+Warning--I didn't find a database entry for "Keynes:1936"
+Warning--I didn't find a database entry for "Kindleberger:1978"
+Warning--I didn't find a database entry for "Landes:1998"
+Warning--I didn't find a database entry for "Mises:1949"
+Warning--I didn't find a database entry for "Rawls:1971"
+Warning--I didn't find a database entry for "Smith:1776"
+Warning--I didn't find a database entry for "Ariely:2008"
+Warning--I didn't find a database entry for "Akerlof:Shiller:2009"
+Warning--I didn't find a database entry for "Bernanke:2015"
+Warning--I didn't find a database entry for "Blinder:2013"
+Warning--I didn't find a database entry for "Bowmaker:2006"
+Warning--I didn't find a database entry for "Buchholz:1996"
+Warning--I didn't find a database entry for "Buchholz:1989"
+Warning--I didn't find a database entry for "Caplan:2007"
+Warning--I didn't find a database entry for "Collier:2009"
+Warning--I didn't find a database entry for "Collier:2007"
+Warning--I didn't find a database entry for "Dixit:Nalebuff:1991"
+Warning--I didn't find a database entry for "Easterly:2008"
+Warning--I didn't find a database entry for "Easterly:2006"
+Warning--I didn't find a database entry for "Easterly:2001"
+Warning--I didn't find a database entry for "Frank:2008"
+Warning--I didn't find a database entry for "Friedman:2008"
+Warning--I didn't find a database entry for "Friedman:2005"
+Warning--I didn't find a database entry for "Friedman:1996"
+Warning--I didn't find a database entry for "Geithner:2015"
+Warning--I didn't find a database entry for "Gladwell:2008"
+Warning--I didn't find a database entry for "Gladwell:2000"
+Warning--I didn't find a database entry for "Harcourt:2008"
+Warning--I didn't find a database entry for "Harford:2005"
+Warning--I didn't find a database entry for "Hazlitt:1946"
+Warning--I didn't find a database entry for "Heilbroner:1953"
+Warning--I didn't find a database entry for "Helpman:2004"
+Warning--I didn't find a database entry for "Kay:2004"
+Warning--I didn't find a database entry for "Kay:2003"
+Warning--I didn't find a database entry for "Krugman:2008"
+Warning--I didn't find a database entry for "Krugman:1998"
+Warning--I didn't find a database entry for "Krugman:1996"
+Warning--I didn't find a database entry for "Landsburg:1993"
+Warning--I didn't find a database entry for "Levitt:Dubner:2005"
+Warning--I didn't find a database entry for "Mian:Sufi:2014"
+Warning--I didn't find a database entry for "Olson:1982"
+Warning--I didn't find a database entry for "Reinhart:Rogoff:2009"
+Warning--I didn't find a database entry for "Ritholtz:2009"
+Warning--I didn't find a database entry for "Roberts:2008"
+Warning--I didn't find a database entry for "Rodrik:2007"
+Warning--I didn't find a database entry for "Sachs:2008"
+Warning--I didn't find a database entry for "Sachs:2005"
+Warning--I didn't find a database entry for "Schelling:1978"
+Warning--I didn't find a database entry for "Sen:1999"
+Warning--I didn't find a database entry for "Shiller:2003"
+Warning--I didn't find a database entry for "Shiller:2000"
+Warning--I didn't find a database entry for "Smith:2009"
+Warning--I didn't find a database entry for "Soto:2000"
+Warning--I didn't find a database entry for "Stiglitz:2006"
+Warning--I didn't find a database entry for "Stiglitz:2003"
+Warning--I didn't find a database entry for "Stiglitz:2002"
+Warning--I didn't find a database entry for "Thaler:Sunstein:2008"
+Warning--I didn't find a database entry for "Wheelan:2002"
+You've used 0 entries,
+            2118 wiz_defined-function locations,
+            628 strings with 5695 characters,
+and the built_in function-call counts, 18 in all, are:
+= -- 0
+> -- 0
+< -- 0
++ -- 0
+- -- 0
+* -- 2
+:= -- 7
+add.period$ -- 0
+call.type$ -- 0
+change.case$ -- 0
+chr.to.int$ -- 0
+cite$ -- 0
+duplicate$ -- 0
+empty$ -- 1
+format.name$ -- 0
+if$ -- 1
+int.to.chr$ -- 0
+int.to.str$ -- 0
+missing$ -- 0
+newline$ -- 3
+num.names$ -- 0
+pop$ -- 0
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 1
+stack$ -- 0
+substring$ -- 0
+swap$ -- 0
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 0
+width$ -- 0
+write$ -- 2
+(There was 1 error message)

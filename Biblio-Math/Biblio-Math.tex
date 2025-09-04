@@ -1,4 +1,3 @@
-% !TeX document-id = {edd63e73-491e-4129-94c2-88b6542cd477}
 % !TEX TS-program = xelatex
 % !BIB TS-program = bibtex
 \documentclass[12pt]{article}
@@ -13,7 +12,7 @@
 ]{geometry}
 \usepackage{ifxetex} % load different packages with/without XeLaTex
 \ifxetex
-   \usepackage{fontspec}
+  \usepackage{fontspec}
 \else  % not needed with utf8 based engines
   \usepackage[utf8]{inputenc}
   \usepackage[T1]{fontenc}
@@ -21,8 +20,7 @@
 \fi%
 \usepackage{amsmath,amssymb}% amssymb loads amsfonts
 \usepackage{latexsym,mathrsfs,textcomp}
-%\usepackage[french,english]{babel}% change order for References v. Références
-%\addto{\extrasenglish}{\renewcommand{\bibname}{References: Math/General/Read}}
+\usepackage{url}
 
 \renewcommand{\refname}{Math/General}
 
