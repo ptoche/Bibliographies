@@ -1,27 +1,62 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.7.13)  3 SEP 2025 21:52
-entering extended mode
- restricted \write18 enabled.
- %&-line parsing enabled.
+This is LuaHBTeX, Version 1.22.0 (TeX Live 2025)  (format=lualatex 2026.3.5)  3 JUL 2026 04:15
+ restricted system commands enabled.
 **Biblio-EconBestSellers.tex
 (./Biblio-EconBestSellers.tex
-LaTeX2e <2025-06-01> patch level 1
-L3 programming layer <2025-07-11>
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/article.cls
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-01-19>
+Lua module: luaotfload 2024-12-03 v3.29 Lua based OpenType font support
+Lua module: lualibs 2023-07-13 v2.76 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2023-07-13 v2.76 ConTeXt Lua libraries -- extended 
+collection.
+luaotfload | conf : Root cache directory is "/Users/patricktoche/Library/texlive
+/2025/texmf-var/luatex-cache/generic/names".
+luaotfload | init : Loading fontloader "fontloader-2023-12-28.lua" from kpse-res
+olved path "/usr/local/texlive/2025/texmf-dist/tex/luatex/luaotfload/fontloader-
+2023-12-28.lua".
+Lua-only attribute luaotfload@noligature = 1
+luaotfload | init : Context OpenType loader version 3.134
+Inserting `luaotfload.node_processor' in `pre_linebreak_filter'.
+Inserting `luaotfload.node_processor' in `hpack_filter'.
+Inserting `luaotfload.glyph_stream' in `glyph_stream_provider'.
+Inserting `luaotfload.define_font' in `define_font'.
+Lua-only attribute luaotfload_color_attribute = 2
+luaotfload | conf : Root cache directory is "/Users/patricktoche/Library/texlive
+/2025/texmf-var/luatex-cache/generic/names".
+Inserting `luaotfload.harf.strip_prefix' in `find_opentype_file'.
+Inserting `luaotfload.harf.strip_prefix' in `find_truetype_file'.
+Removing  `luaotfload.glyph_stream' from `glyph_stream_provider'.
+Inserting `luaotfload.harf.glyphstream' in `glyph_stream_provider'.
+Inserting `luaotfload.harf.finalize_vlist' in `post_linebreak_filter'.
+Inserting `luaotfload.harf.finalize_hlist' in `hpack_filter'.
+Inserting `luaotfload.cleanup_files' in `wrapup_run'.
+Inserting `luaotfload.harf.finalize_unicode' in `finish_pdffile'.
+Inserting `luaotfload.glyphinfo' in `glyph_info'.
+Lua-only attribute luaotfload.letterspace_done = 3
+Inserting `luaotfload.aux.set_sscale_dimens' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_font_index' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.patch_cambria_domh' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.fixup_fontdata' in `luaotfload.patch_font_unsafe'.
+Inserting `luaotfload.aux.set_capheight' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_xheight' in `luaotfload.patch_font'.
+Inserting `luaotfload.rewrite_fontname' in `luaotfload.patch_font'.
+Inserting `tracingstacklevels' in `input_level_string'. (/usr/local/texlive/202
+5/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
 (/usr/local/texlive/2025/texmf-dist/tex/latex/base/size12.clo
 File: size12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
-)
-\c@part=\count271
-\c@section=\count272
-\c@subsection=\count273
-\c@subsubsection=\count274
-\c@paragraph=\count275
-\c@subparagraph=\count276
-\c@figure=\count277
-\c@table=\count278
+luaotfload | db : Font names database loaded from /Users/patricktoche/Library/te
+xlive/2025/texmf-var/luatex-cache/generic/names/luaotfload-names.luc.gz)
+\c@part=\count273
+\c@section=\count274
+\c@subsection=\count275
+\c@subsubsection=\count276
+\c@paragraph=\count277
+\c@subparagraph=\count278
+\c@figure=\count279
+\c@table=\count280
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
-\bibindent=\dimen148
+\bibindent=\dimen147
 )
 (/usr/local/texlive/2025/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
@@ -36,40 +71,34 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 (/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2024/12/12 v1.0g TeX engine tests
 ))
-\Gm@cnth=\count279
-\Gm@cntv=\count280
-\c@Gm@tempcnt=\count281
-\Gm@bindingoffset=\dimen149
-\Gm@wd@mp=\dimen150
-\Gm@odd@mp=\dimen151
-\Gm@even@mp=\dimen152
-\Gm@layoutwidth=\dimen153
-\Gm@layoutheight=\dimen154
-\Gm@layouthoffset=\dimen155
-\Gm@layoutvoffset=\dimen156
+\Gm@cnth=\count281
+\Gm@cntv=\count282
+\c@Gm@tempcnt=\count283
+\Gm@bindingoffset=\dimen148
+\Gm@wd@mp=\dimen149
+\Gm@odd@mp=\dimen150
+\Gm@even@mp=\dimen151
+\Gm@layoutwidth=\dimen152
+\Gm@layoutheight=\dimen153
+\Gm@layouthoffset=\dimen154
+\Gm@layoutvoffset=\dimen155
 \Gm@dimlist=\toks18
-)
-(/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/ifxetex.sty
-Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
 )
 (/usr/local/texlive/2025/texmf-dist/tex/latex/fontspec/fontspec.sty
 (/usr/local/texlive/2025/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 (/usr/local/texlive/2025/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2025-07-11 L3 programming layer (loader) 
+Package: expl3 2026-01-19 L3 programming layer (loader) 
 
-(/usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
-File: l3backend-xetex.def 2025-06-09 L3 backend support: XeTeX
-\g__graphics_track_int=\count282
-\g__pdfannot_backend_int=\count283
-\g__pdfannot_backend_link_int=\count284
-))
-Package: xparse 2024-08-16 L3 Experimental document command parser
+(/usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-luatex.def
+File: l3backend-luatex.def 2025-10-09 L3 backend support: PDF output (LuaTeX)
+\l__color_backend_stack_int=\count284
+Inserting `l3color' in `luaotfload.parse_color'.))
+Package: xparse 2025-10-09 L3 Experimental document command parser
 )
-Package: fontspec 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
-
-(/usr/local/texlive/2025/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
-Package: fontspec-xetex 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTe
-X
+Package: fontspec 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTeX
+Lua module: fontspec 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTeX (/usr/local/texlive/2025/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
+Package: fontspec-luatex 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaT
+eX
 \l__fontspec_script_int=\count285
 \l__fontspec_language_int=\count286
 \l__fontspec_strnum_int=\count287
@@ -81,16 +110,16 @@ X
 \l__fontspec_emdef_int=\count293
 \l__fontspec_strong_int=\count294
 \l__fontspec_strongdef_int=\count295
-\l__fontspec_tmpa_dim=\dimen157
-\l__fontspec_tmpb_dim=\dimen158
-\l__fontspec_tmpc_dim=\dimen159
+\l__fontspec_tmpa_dim=\dimen156
+\l__fontspec_tmpb_dim=\dimen157
+\l__fontspec_tmpc_dim=\dimen158
 
 (/usr/local/texlive/2025/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2024/12/21 v2.1c Standard LaTeX package
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
 )
 (/usr/local/texlive/2025/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
 (/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2025/06/16 v2.17y AMS math features
+Package: amsmath 2025/07/09 v2.17z AMS math features
 \@mathmargin=\skip51
 
 For additional information on amsmath, use the `?' option.
@@ -100,17 +129,17 @@ Package: amstext 2024/11/17 v2.01 AMS text
 (/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks19
-\ex@=\dimen160
+\ex@=\dimen159
 ))
 (/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen161
+\pmbraise@=\dimen160
 )
 (/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
 \inf@bad=\count296
-LaTeX Info: Redefining \frac on input line 233.
+LaTeX Info: Redefining \frac on input line 235.
 \uproot@=\count297
 \leftroot@=\count298
 LaTeX Info: Redefining \overline on input line 398.
@@ -126,7 +155,7 @@ LaTeX Info: Redefining \big on input line 721.
 LaTeX Info: Redefining \Big on input line 722.
 LaTeX Info: Redefining \bigg on input line 723.
 LaTeX Info: Redefining \Bigg on input line 724.
-\big@size=\dimen162
+\big@size=\dimen161
 LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
 \macc@depth=\count301
@@ -144,18 +173,18 @@ LaTeX Info: Redefining \Relbar on input line 970.
 \column@=\count306
 \maxfields@=\count307
 \andhelp@=\toks21
-\eqnshift@=\dimen163
-\alignsep@=\dimen164
-\tagshift@=\dimen165
-\tagwidth@=\dimen166
-\totwidth@=\dimen167
-\lineht@=\dimen168
+\eqnshift@=\dimen162
+\alignsep@=\dimen163
+\tagshift@=\dimen164
+\tagwidth@=\dimen165
+\totwidth@=\dimen166
+\lineht@=\dimen167
 \@envbody=\toks22
 \multlinegap=\skip52
 \multlinetaggap=\skip53
 \mathdisplay@stack=\toks23
-LaTeX Info: Redefining \[ on input line 2949.
-LaTeX Info: Redefining \] on input line 2950.
+LaTeX Info: Redefining \[ on input line 2950.
+LaTeX Info: Redefining \] on input line 2951.
 )
 (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
@@ -185,49 +214,296 @@ Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
 \Urlmuskip=\muskip18
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-(/usr/local/texlive/2025/texmf-dist/tex/latex/bibtopic/bibtopic.sty
-Package: bibtopic 2006/09/08 v1.1a Sectioned Bibliographies
+(/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2025/07/10 v3.21 programmable bibliographies (PK/MW)
 
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+\pdftexcmds@toks=\toks24
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count308
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count309
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
 (/usr/local/texlive/2025/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
 )
-\c@btauxfile=\count308
-\bt@infilea=\read2
-\bt@infileb=\read3
-\bt@outfile=\write3
-\bt@tempboxa=\box55
-)
-(/usr/local/texlive/2025/texmf-dist/tex/latex/natbib/natbib.sty
-Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip54
-\bibsep=\skip55
-LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count309
-)
-(./Biblio-EconBestSellers.aux)
-\openout1 = `Biblio-EconBestSellers.aux'.
+\c@tabx@nest=\count310
+\c@listtotal=\count311
+\c@listcount=\count312
+\c@liststart=\count313
+\c@liststop=\count314
+\c@citecount=\count315
+\c@citetotal=\count316
+\c@multicitecount=\count317
+\c@multicitetotal=\count318
+\c@instcount=\count319
+\c@maxnames=\count320
+\c@minnames=\count321
+\c@maxitems=\count322
+\c@minitems=\count323
+\c@citecounter=\count324
+\c@maxcitecounter=\count325
+\c@savedcitecounter=\count326
+\c@uniquelist=\count327
+\c@uniquename=\count328
+\c@refsection=\count329
+\c@refsegment=\count330
+\c@maxextratitle=\count331
+\c@maxextratitleyear=\count332
+\c@maxextraname=\count333
+\c@maxextradate=\count334
+\c@maxextraalpha=\count335
+\c@abbrvpenalty=\count336
+\c@highnamepenalty=\count337
+\c@lownamepenalty=\count338
+\c@maxparens=\count339
+\c@parenlevel=\count340
+\blx@tempcnta=\count341
+\blx@tempcntb=\count342
+\blx@tempcntc=\count343
+\c@blx@maxsection=\count344
+\blx@maxsegment@0=\count345
+\blx@notetype=\count346
+\blx@parenlevel@text=\count347
+\blx@parenlevel@foot=\count348
+\blx@sectionciteorder@0=\count349
+\blx@sectionciteorderinternal@0=\count350
+\blx@entrysetcounter=\count351
+\blx@biblioinstance=\count352
+\labelnumberwidth=\skip54
+\labelalphawidth=\skip55
+\biblabelsep=\skip56
+\bibitemsep=\skip57
+\bibnamesep=\skip58
+\bibinitsep=\skip59
+\bibparsep=\skip60
+\bibhang=\skip61
+\blx@bcfin=\read2
+\blx@bcfout=\write3
+\blx@langwohyphens=\language2
+\c@mincomprange=\count353
+\c@maxcomprange=\count354
+\c@mincompwidth=\count355
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
+(/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2025/07/10 v3.21 biblatex datamodel (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'numeric.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count356
+\c@savedafterword=\count357
+\c@annotator=\count358
+\c@savedannotator=\count359
+\c@author=\count360
+\c@savedauthor=\count361
+\c@bookauthor=\count362
+\c@savedbookauthor=\count363
+\c@commentator=\count364
+\c@savedcommentator=\count365
+\c@editor=\count366
+\c@savededitor=\count367
+\c@editora=\count368
+\c@savededitora=\count369
+\c@editorb=\count370
+\c@savededitorb=\count371
+\c@editorc=\count372
+\c@savededitorc=\count373
+\c@foreword=\count374
+\c@savedforeword=\count375
+\c@holder=\count376
+\c@savedholder=\count377
+\c@introduction=\count378
+\c@savedintroduction=\count379
+\c@namea=\count380
+\c@savednamea=\count381
+\c@nameb=\count382
+\c@savednameb=\count383
+\c@namec=\count384
+\c@savednamec=\count385
+\c@translator=\count386
+\c@savedtranslator=\count387
+\c@shortauthor=\count388
+\c@savedshortauthor=\count389
+\c@shorteditor=\count390
+\c@savedshorteditor=\count391
+\c@labelname=\count392
+\c@savedlabelname=\count393
+\c@institution=\count394
+\c@savedinstitution=\count395
+\c@lista=\count396
+\c@savedlista=\count397
+\c@listb=\count398
+\c@savedlistb=\count399
+\c@listc=\count400
+\c@savedlistc=\count401
+\c@listd=\count402
+\c@savedlistd=\count403
+\c@liste=\count404
+\c@savedliste=\count405
+\c@listf=\count406
+\c@savedlistf=\count407
+\c@location=\count408
+\c@savedlocation=\count409
+\c@organization=\count410
+\c@savedorganization=\count411
+\c@origlocation=\count412
+\c@savedoriglocation=\count413
+\c@origpublisher=\count414
+\c@savedorigpublisher=\count415
+\c@publisher=\count416
+\c@savedpublisher=\count417
+\c@language=\count418
+\c@savedlanguage=\count419
+\c@origlanguage=\count420
+\c@savedoriglanguage=\count421
+\c@pageref=\count422
+\c@savedpageref=\count423
+\shorthandwidth=\skip62
+\shortjournalwidth=\skip63
+\shortserieswidth=\skip64
+\shorttitlewidth=\skip65
+\shortauthorwidth=\skip66
+\shorteditorwidth=\skip67
+\locallabelnumberwidth=\skip68
+\locallabelalphawidth=\skip69
+\localshorthandwidth=\skip70
+\localshortjournalwidth=\skip71
+\localshortserieswidth=\skip72
+\localshorttitlewidth=\skip73
+\localshortauthorwidth=\skip74
+\localshorteditorwidth=\skip75
+Package biblatex Info: Trying to load enhanced support for Unicode engines...
+Package biblatex Info: ... file 'blx-unicode.def' found.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/blx-unicode.def)
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
+\c@textcitecount=\count424
+\c@textcitetotal=\count425
+\c@textcitemaxnames=\count426
+\c@biburlbigbreakpenalty=\count427
+\c@biburlbreakpenalty=\count428
+\c@biburlnumpenalty=\count429
+\c@biburlucpenalty=\count430
+\c@biburllcpenalty=\count431
+\biburlbigskip=\muskip19
+\biburlnumskip=\muskip20
+\biburlucskip=\muskip21
+\biburllcskip=\muskip22
+\c@smartand=\count432
+)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
+File: numeric.bbx 2025/07/10 v3.21 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2025/07/10 v3.21 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count433
+\c@bbx:relatedtotal=\count434
+))
+Package biblatex Info: Trying to load citation style 'numeric'...
+Package biblatex Info: ... file 'numeric.cbx' found.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/cbx/numeric.cbx
+File: numeric.cbx 2025/07/10 v3.21 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+)
+Package biblatex Info: LuaTeX detected.
+(biblatex)             Assuming input encoding 'utf8'.
+Package biblatex Info: Document encoding is UTF8 ....
+Package biblatex Info: ... and expl3
+(biblatex)             2026-01-19 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
+Package: blx-case-expl3 2025/07/10 v3.21 expl3 case changing code for biblatex
+))
+\@quotelevel=\count435
+\@quotereset=\count436
+
+(./Biblio-EconBestSellers.aux)
+\openout1 = Biblio-EconBestSellers.aux
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
 
 *geometry* driver: auto-detecting
-*geometry* detected driver: xetex
+*geometry* detected driver: luatex
 *geometry* verbose mode - [ preamble ] result:
-* driver: xetex
+* driver: luatex
 * paper: <default>
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
@@ -265,113 +541,126 @@ Package fontspec Info:
 
 \symlegacymaths=\mathgroup8
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 31.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 31.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 31.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 31.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 31.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 31.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 31.
-LaTeX Font Info:    Redeclaring math accent \check on input line 31.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 31.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 31.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 31.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 31.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 31.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 31.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 31.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 31.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 31.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 31.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 31.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 31.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 31.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 31.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 31.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 31.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 122.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 122.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 122.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 122.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 122.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 122.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 122.
+LaTeX Font Info:    Redeclaring math accent \check on input line 122.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 122.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 122.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 122.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 122.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 122.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 122.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 122.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 122.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 122.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 122.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 122.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 122.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 122.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 122.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 122.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 122.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 31.
+(Font)              `operators' in the math version `normal' on input line 122.
+
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 31.
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 122.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 31.
+(Font)              `operators' in the math version `bold' on input line 122.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 31.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 122.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 31.
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 122.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 31.
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 122.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 31.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 122.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 31.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 122.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 31.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 122.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 31.
+(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 122.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 31.
+(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 122.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 31.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 122.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 31.
-\openout3 = `btaux.aux'.
-
-\openout3 = `bt1.aux'.
-
-(./bt1.bbl
-LaTeX Font Info:    Trying to load font information for U+msa on input line 287
-.
- (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 122.
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+(/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 287
-.
+Package biblatex Info: LuaTeX detected.
+(biblatex)             Assuming input encoding 'utf8'.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
 
-(/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Trying to load font information for U+lasy on input line 28
-7.
+\openout3 = Biblio-EconBestSellers.bcf
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'Biblio-EconBestSellers.bbl' found.
 
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/ulasy.fd
-File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
-)
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 28
-7.
+(./Biblio-EconBestSellers.bbl)
+Package biblatex Info: Reference section=0 on input line 122.
+Package biblatex Info: Reference segment=0 on input line 122.
 
-(/usr/local/texlive/2025/texmf-dist/tex/latex/jknapltx/ursfs.fd
-File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
-))
-\openout3 = `btaux.aux'.
-
-\openout3 = `bt2.aux'.
-
- (./bt2.bbl
+Overfull \hbox (12.72382pt too wide) in paragraph at lines 131--131
+[]\TU/lmr/m/n/12 Friedrich A. Hayek. \TU/lmr/m/it/12 The Con-sti-tu-tion of Lib-
+erty\TU/lmr/m/n/12 . Uni-ver-sity Of Chicago Press, 1960. \TU/lmr/m/sc/12 isbn\
+TU/lmr/m/n/12 : 0226320847. 
+ []
 
 [1
 
-]
+{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (17.92778pt too wide) in paragraph at lines 135--135
+[]\TU/lmr/m/n/12 Ben-jamin M. Fried-man. \TU/lmr/m/it/12 The Moral Con-se-quence
+s of Eco-nomic Growth\TU/lmr/m/n/12 . Knopf, 2005. \TU/lmr/m/sc/12 isbn\TU/lmr/
+m/n/12 : 0679448918. 
+ []
 
 [2]
+Overfull \hbox (0.25745pt too wide) in paragraph at lines 135--135
+[]\TU/lmr/m/n/12 Daniel Kah-ne-man. \TU/lmr/m/it/12 Think-ing, Fast and Slow\TU
+/lmr/m/n/12 . Far-rar, Straus and Giroux, 2011. \TU/lmr/m/sc/12 isbn\TU/lmr/m/n
+/12 : 9780374275631. 
+ []
 
-[3]
-
-[4])
-
-[5] (./Biblio-EconBestSellers.aux)
+[3] [4] [5] (./Biblio-EconBestSellers.aux)
  ***********
-LaTeX2e <2025-06-01> patch level 1
-L3 programming layer <2025-07-11>
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-01-19>
  ***********
- ) 
-Here is how much of TeX's memory you used:
- 5972 strings out of 468457
- 141309 string characters out of 5445913
- 581734 words of memory out of 5000000
- 34356 multiletter control sequences out of 15000+600000
- 632362 words of font info for 74 fonts, out of 8000000 for 9000
- 1348 hyphenation exceptions out of 8191
- 73i,5n,77p,287b,602s stack positions out of 10000i,1000n,20000p,200000b,200000s
+Package logreq Info: Writing requests to 'Biblio-EconBestSellers.run.xml'.
 
-Output written on Biblio-EconBestSellers.pdf (5 pages).
+\openout1 = Biblio-EconBestSellers.run.xml
+)
+
+Here is how much of LuaTeX's memory you used:
+ 13348 strings out of 476076
+ 125165,1373583 words of node,token memory allocated
+ 554 words of node memory still in use:
+   6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 6 attribute, 66 glue_spec,
+ 6 attribute_list, 1 write nodes
+   avail lists: 1:2,2:985,3:254,4:4,5:477,6:49,7:6762,9:191,10:3,11:337
+ 35656 multiletter control sequences out of 65536+600000
+ 22 fonts using 1644127 bytes
+ 73i,5n,73p,710b,986s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2025/texmf-dist/fonts/opentype/public/lm/lmromancaps10-regul
+ar.otf></usr/local/texlive/2025/texmf-dist/fonts/opentype/public/lm/lmroman12-it
+alic.otf></usr/local/texlive/2025/texmf-dist/fonts/opentype/public/lm/lmroman12-
+regular.otf></usr/local/texlive/2025/texmf-dist/fonts/opentype/public/lm/lmroman
+12-bold.otf>
+Output written on Biblio-EconBestSellers.pdf (5 pages, 40748 bytes).
+
+PDF statistics: 48 PDF objects out of 1000 (max. 8388607)
+ 28 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 131072)
+ 1 words of extra memory for PDF output out of 10000 (max. 100000000)
+

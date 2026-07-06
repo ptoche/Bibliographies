@@ -1,3 +1,3121 @@
-\begin{thebibliography}{}
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
 
-\end{thebibliography}
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global/global}
+    \entry{Acemoglu:Robinson:2012}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=ae053a86a39756e9642540d1d391d926}{%
+           family={Acemoğlu},
+           familyi={A\bibinitperiod},
+           given={Daron},
+           giveni={D\bibinitperiod}}}%
+        {{hash=974873287a7760126350afac970c1e81}{%
+           family={Robinson},
+           familyi={R\bibinitperiod},
+           given={James\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Crown Currency}%
+      }
+      \strng{namehash}{1b54fd78a719da2bfdad420494ca08f7}
+      \strng{fullhash}{1b54fd78a719da2bfdad420494ca08f7}
+      \strng{fullhashraw}{1b54fd78a719da2bfdad420494ca08f7}
+      \strng{bibnamehash}{1b54fd78a719da2bfdad420494ca08f7}
+      \strng{authorbibnamehash}{1b54fd78a719da2bfdad420494ca08f7}
+      \strng{authornamehash}{1b54fd78a719da2bfdad420494ca08f7}
+      \strng{authorfullhash}{1b54fd78a719da2bfdad420494ca08f7}
+      \strng{authorfullhashraw}{1b54fd78a719da2bfdad420494ca08f7}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780307719218}
+      \field{title}{Why Nations Fail: The Origins of Power, Prosperity, and Poverty}
+      \field{year}{2012}
+      \true{nocite}
+    \endentry
+    \entry{Acharya:Richardson:vanNieuwerburgh:White:2011}{book}{}{}
+      \name{author}{4}{}{%
+        {{hash=0471f2dacc1ef1a22fedfa2b5a5803f6}{%
+           family={Acharya},
+           familyi={A\bibinitperiod},
+           given={Viral\bibnamedelima V.},
+           giveni={V\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=f96c5999895363061e2fe84b4cd057df}{%
+           family={Richardson},
+           familyi={R\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a46eee4c76f2330463a08554fe56b704}{%
+           family={Nieuwerburgh},
+           familyi={N\bibinitperiod},
+           given={Stijn},
+           giveni={S\bibinitperiod},
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+        {{hash=5d6a73ce7292fd19749f2e580de2dc7e}{%
+           family={White},
+           familyi={W\bibinitperiod},
+           given={Lawrence\bibnamedelima J.},
+           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Princeton University Press}%
+      }
+      \strng{namehash}{c160852b8b49d562f2acc0dc153726f7}
+      \strng{fullhash}{542cff6ad41470a2a91be6b0c0e34bd4}
+      \strng{fullhashraw}{542cff6ad41470a2a91be6b0c0e34bd4}
+      \strng{bibnamehash}{c160852b8b49d562f2acc0dc153726f7}
+      \strng{authorbibnamehash}{c160852b8b49d562f2acc0dc153726f7}
+      \strng{authornamehash}{c160852b8b49d562f2acc0dc153726f7}
+      \strng{authorfullhash}{542cff6ad41470a2a91be6b0c0e34bd4}
+      \strng{authorfullhashraw}{542cff6ad41470a2a91be6b0c0e34bd4}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0691150788}
+      \field{title}{Guaranteed to Fail: Fannie Mae, Freddie Mac, and the Debacle of Mortgage Finance}
+      \field{year}{2011}
+      \true{nocite}
+    \endentry
+    \entry{Ahamed:2009}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=ae8a6ac01434a02ae93dcfadb6e7a168}{%
+           family={Ahamed},
+           familyi={A\bibinitperiod},
+           given={Liaquat},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Penguin Press}%
+      }
+      \strng{namehash}{ae8a6ac01434a02ae93dcfadb6e7a168}
+      \strng{fullhash}{ae8a6ac01434a02ae93dcfadb6e7a168}
+      \strng{fullhashraw}{ae8a6ac01434a02ae93dcfadb6e7a168}
+      \strng{bibnamehash}{ae8a6ac01434a02ae93dcfadb6e7a168}
+      \strng{authorbibnamehash}{ae8a6ac01434a02ae93dcfadb6e7a168}
+      \strng{authornamehash}{ae8a6ac01434a02ae93dcfadb6e7a168}
+      \strng{authorfullhash}{ae8a6ac01434a02ae93dcfadb6e7a168}
+      \strng{authorfullhashraw}{ae8a6ac01434a02ae93dcfadb6e7a168}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781594201820}
+      \field{title}{Lords of Finance: The Bankers Who Broke the World}
+      \field{year}{2009}
+      \true{nocite}
+    \endentry
+    \entry{Akerlof:Shiller:2009}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=f198b417f1390a0f8ff279349b43f47d}{%
+           family={Akerlof},
+           familyi={A\bibinitperiod},
+           given={George\bibnamedelima A.},
+           giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=9d82a77d715bb25ddd61e8456f95a4f4}{%
+           family={Shiller},
+           familyi={S\bibinitperiod},
+           given={Robert\bibnamedelima J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Princeton University Press}%
+      }
+      \strng{namehash}{325b62ffb099b98c14d5154256a309fd}
+      \strng{fullhash}{325b62ffb099b98c14d5154256a309fd}
+      \strng{fullhashraw}{325b62ffb099b98c14d5154256a309fd}
+      \strng{bibnamehash}{325b62ffb099b98c14d5154256a309fd}
+      \strng{authorbibnamehash}{325b62ffb099b98c14d5154256a309fd}
+      \strng{authornamehash}{325b62ffb099b98c14d5154256a309fd}
+      \strng{authorfullhash}{325b62ffb099b98c14d5154256a309fd}
+      \strng{authorfullhashraw}{325b62ffb099b98c14d5154256a309fd}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780691142333}
+      \field{title}{Animal Spirits: How Human Psychology Drives the Economy, and Why It Matters for Global Capitalism}
+      \field{year}{2009}
+      \true{nocite}
+    \endentry
+    \entry{Ariely:2008}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=71ec597571f84eda16f077607686f56b}{%
+           family={Ariely},
+           familyi={A\bibinitperiod},
+           given={Dan},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {HarperCollins}%
+      }
+      \strng{namehash}{71ec597571f84eda16f077607686f56b}
+      \strng{fullhash}{71ec597571f84eda16f077607686f56b}
+      \strng{fullhashraw}{71ec597571f84eda16f077607686f56b}
+      \strng{bibnamehash}{71ec597571f84eda16f077607686f56b}
+      \strng{authorbibnamehash}{71ec597571f84eda16f077607686f56b}
+      \strng{authornamehash}{71ec597571f84eda16f077607686f56b}
+      \strng{authorfullhash}{71ec597571f84eda16f077607686f56b}
+      \strng{authorfullhashraw}{71ec597571f84eda16f077607686f56b}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780061353239}
+      \field{title}{Predictably Irrational: The Hidden Forces That Shape Our Decisions}
+      \field{year}{2008}
+      \true{nocite}
+    \endentry
+    \entry{Banerjee:Duflo:2019}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=75cb9b0a536a90048d1b19d0ef0318bb}{%
+           family={Banerjee},
+           familyi={B\bibinitperiod},
+           given={Abhijit\bibnamedelima V.},
+           giveni={A\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=7e6b0ea4eee38822cdb0a4361e98752c}{%
+           family={Duflo},
+           familyi={D\bibinitperiod},
+           given={Esther},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {PublicAffairs}%
+      }
+      \strng{namehash}{000ed16d8053e6662e8cfcf9ddb9eb1b}
+      \strng{fullhash}{000ed16d8053e6662e8cfcf9ddb9eb1b}
+      \strng{fullhashraw}{000ed16d8053e6662e8cfcf9ddb9eb1b}
+      \strng{bibnamehash}{000ed16d8053e6662e8cfcf9ddb9eb1b}
+      \strng{authorbibnamehash}{000ed16d8053e6662e8cfcf9ddb9eb1b}
+      \strng{authornamehash}{000ed16d8053e6662e8cfcf9ddb9eb1b}
+      \strng{authorfullhash}{000ed16d8053e6662e8cfcf9ddb9eb1b}
+      \strng{authorfullhashraw}{000ed16d8053e6662e8cfcf9ddb9eb1b}
+      \field{extraname}{1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781610399500}
+      \field{title}{Good Economics for Hard Times}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{Banerjee:Duflo:2012}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=75cb9b0a536a90048d1b19d0ef0318bb}{%
+           family={Banerjee},
+           familyi={B\bibinitperiod},
+           given={Abhijit\bibnamedelima V.},
+           giveni={A\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=7e6b0ea4eee38822cdb0a4361e98752c}{%
+           family={Duflo},
+           familyi={D\bibinitperiod},
+           given={Esther},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {PublicAffairs}%
+      }
+      \strng{namehash}{000ed16d8053e6662e8cfcf9ddb9eb1b}
+      \strng{fullhash}{000ed16d8053e6662e8cfcf9ddb9eb1b}
+      \strng{fullhashraw}{000ed16d8053e6662e8cfcf9ddb9eb1b}
+      \strng{bibnamehash}{000ed16d8053e6662e8cfcf9ddb9eb1b}
+      \strng{authorbibnamehash}{000ed16d8053e6662e8cfcf9ddb9eb1b}
+      \strng{authornamehash}{000ed16d8053e6662e8cfcf9ddb9eb1b}
+      \strng{authorfullhash}{000ed16d8053e6662e8cfcf9ddb9eb1b}
+      \strng{authorfullhashraw}{000ed16d8053e6662e8cfcf9ddb9eb1b}
+      \field{extraname}{2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781610391603}
+      \field{title}{Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty}
+      \field{year}{2012}
+      \true{nocite}
+    \endentry
+    \entry{Bastiat:1850}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{hash=29de3d49f999f53fe2c885ed575ee9f1}{%
+           family={Bastiat},
+           familyi={B\bibinitperiod},
+           given={Frederic},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Ludwig von Mises Institute}%
+      }
+      \strng{namehash}{29de3d49f999f53fe2c885ed575ee9f1}
+      \strng{fullhash}{29de3d49f999f53fe2c885ed575ee9f1}
+      \strng{fullhashraw}{29de3d49f999f53fe2c885ed575ee9f1}
+      \strng{bibnamehash}{29de3d49f999f53fe2c885ed575ee9f1}
+      \strng{authorbibnamehash}{29de3d49f999f53fe2c885ed575ee9f1}
+      \strng{authornamehash}{29de3d49f999f53fe2c885ed575ee9f1}
+      \strng{authorfullhash}{29de3d49f999f53fe2c885ed575ee9f1}
+      \strng{authorfullhashraw}{29de3d49f999f53fe2c885ed575ee9f1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Bastiat Collection 2 Volumes}
+      \field{isbn}{9781933550077}
+      \field{title}{That Which Is Seen, and That Which Is Not Seen}
+      \field{year}{1850, 2007}
+      \true{nocite}
+      \field{pages}{1\bibrangedash 48}
+      \range{pages}{48}
+    \endentry
+    \entry{Holmstrom:Tirole:2011}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=90b89c1c5dac9bcbadee7fe82bce7dbc}{%
+           family={Bengt\bibnamedelima Holmström},
+           familyi={B\bibinitperiod\bibinitdelim H\bibinitperiod},
+           given={Jean\bibnamedelima Tirole},
+           giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MIT Press}%
+      }
+      \strng{namehash}{90b89c1c5dac9bcbadee7fe82bce7dbc}
+      \strng{fullhash}{90b89c1c5dac9bcbadee7fe82bce7dbc}
+      \strng{fullhashraw}{90b89c1c5dac9bcbadee7fe82bce7dbc}
+      \strng{bibnamehash}{90b89c1c5dac9bcbadee7fe82bce7dbc}
+      \strng{authorbibnamehash}{90b89c1c5dac9bcbadee7fe82bce7dbc}
+      \strng{authornamehash}{90b89c1c5dac9bcbadee7fe82bce7dbc}
+      \strng{authorfullhash}{90b89c1c5dac9bcbadee7fe82bce7dbc}
+      \strng{authorfullhashraw}{90b89c1c5dac9bcbadee7fe82bce7dbc}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0262015781}
+      \field{title}{Inside and Outside Liquidity}
+      \field{year}{2011}
+      \true{nocite}
+    \endentry
+    \entry{Bernanke:2015}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=7c898d91e08f8405749c5ad0d0817ac2}{%
+           family={Bernanke},
+           familyi={B\bibinitperiod},
+           given={Ben\bibnamedelima S.},
+           giveni={B\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Princeton University Press}%
+      }
+      \strng{namehash}{7c898d91e08f8405749c5ad0d0817ac2}
+      \strng{fullhash}{7c898d91e08f8405749c5ad0d0817ac2}
+      \strng{fullhashraw}{7c898d91e08f8405749c5ad0d0817ac2}
+      \strng{bibnamehash}{7c898d91e08f8405749c5ad0d0817ac2}
+      \strng{authorbibnamehash}{7c898d91e08f8405749c5ad0d0817ac2}
+      \strng{authornamehash}{7c898d91e08f8405749c5ad0d0817ac2}
+      \strng{authorfullhash}{7c898d91e08f8405749c5ad0d0817ac2}
+      \strng{authorfullhashraw}{7c898d91e08f8405749c5ad0d0817ac2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0691165572}
+      \field{title}{The Federal Reserve and the Financial Crisis}
+      \field{year}{2015}
+      \true{nocite}
+    \endentry
+    \entry{Blinder:2013}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=c747dbf34ee9a12f5efc12158d6650c7}{%
+           family={Blinder},
+           familyi={B\bibinitperiod},
+           given={Alan\bibnamedelima S.},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Penguin Books}%
+      }
+      \strng{namehash}{c747dbf34ee9a12f5efc12158d6650c7}
+      \strng{fullhash}{c747dbf34ee9a12f5efc12158d6650c7}
+      \strng{fullhashraw}{c747dbf34ee9a12f5efc12158d6650c7}
+      \strng{bibnamehash}{c747dbf34ee9a12f5efc12158d6650c7}
+      \strng{authorbibnamehash}{c747dbf34ee9a12f5efc12158d6650c7}
+      \strng{authornamehash}{c747dbf34ee9a12f5efc12158d6650c7}
+      \strng{authorfullhash}{c747dbf34ee9a12f5efc12158d6650c7}
+      \strng{authorfullhashraw}{c747dbf34ee9a12f5efc12158d6650c7}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{014312448X}
+      \field{title}{After the Music Stopped: The Financial Crisis, the Response, and the Work Ahead}
+      \field{year}{2013}
+      \true{nocite}
+    \endentry
+    \entry{Bowmaker:2006}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=397b1814826a006bc6800738604ef29d}{%
+           family={Bowmaker},
+           familyi={B\bibinitperiod},
+           given={Simon\bibnamedelima W.},
+           giveni={S\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Edward Elgar Publishing}%
+      }
+      \strng{namehash}{397b1814826a006bc6800738604ef29d}
+      \strng{fullhash}{397b1814826a006bc6800738604ef29d}
+      \strng{fullhashraw}{397b1814826a006bc6800738604ef29d}
+      \strng{bibnamehash}{397b1814826a006bc6800738604ef29d}
+      \strng{authorbibnamehash}{397b1814826a006bc6800738604ef29d}
+      \strng{authornamehash}{397b1814826a006bc6800738604ef29d}
+      \strng{authorfullhash}{397b1814826a006bc6800738604ef29d}
+      \strng{authorfullhashraw}{397b1814826a006bc6800738604ef29d}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{1843763621}
+      \field{title}{Economics Uncut: A Complete Guide to Life, Death, and Misadventure}
+      \field{year}{2006}
+      \true{nocite}
+    \endentry
+    \entry{Buchholz:1989}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=1339068555c251c8ea26024189523edf}{%
+           family={Buchholz},
+           familyi={B\bibinitperiod},
+           given={Todd},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Dutton Adult}%
+      }
+      \strng{namehash}{1339068555c251c8ea26024189523edf}
+      \strng{fullhash}{1339068555c251c8ea26024189523edf}
+      \strng{fullhashraw}{1339068555c251c8ea26024189523edf}
+      \strng{bibnamehash}{1339068555c251c8ea26024189523edf}
+      \strng{authorbibnamehash}{1339068555c251c8ea26024189523edf}
+      \strng{authornamehash}{1339068555c251c8ea26024189523edf}
+      \strng{authorfullhash}{1339068555c251c8ea26024189523edf}
+      \strng{authorfullhashraw}{1339068555c251c8ea26024189523edf}
+      \field{extraname}{1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0453006884}
+      \field{title}{New Ideas from Dead Economists: An Introduction to Modern Economic Thought}
+      \field{year}{1989}
+      \true{nocite}
+    \endentry
+    \entry{Buchholz:1996}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=b61f0881e7600dae6a861922c69e981c}{%
+           family={Buchholz},
+           familyi={B\bibinitperiod},
+           given={Todd\bibnamedelima G.},
+           giveni={T\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Plume}%
+      }
+      \strng{namehash}{b61f0881e7600dae6a861922c69e981c}
+      \strng{fullhash}{b61f0881e7600dae6a861922c69e981c}
+      \strng{fullhashraw}{b61f0881e7600dae6a861922c69e981c}
+      \strng{bibnamehash}{b61f0881e7600dae6a861922c69e981c}
+      \strng{authorbibnamehash}{b61f0881e7600dae6a861922c69e981c}
+      \strng{authornamehash}{b61f0881e7600dae6a861922c69e981c}
+      \strng{authorfullhash}{b61f0881e7600dae6a861922c69e981c}
+      \strng{authorfullhashraw}{b61f0881e7600dae6a861922c69e981c}
+      \field{extraname}{2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0452274826}
+      \field{title}{From Here to Economy: A Shortcut to Economic Literacy}
+      \field{year}{1996}
+      \true{nocite}
+    \endentry
+    \entry{Caplan:2007}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=b7b96cdbdf4ddbab8d3c56d9e47475b1}{%
+           family={Caplan},
+           familyi={C\bibinitperiod},
+           given={Bryan},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Princeton University Press}%
+      }
+      \strng{namehash}{b7b96cdbdf4ddbab8d3c56d9e47475b1}
+      \strng{fullhash}{b7b96cdbdf4ddbab8d3c56d9e47475b1}
+      \strng{fullhashraw}{b7b96cdbdf4ddbab8d3c56d9e47475b1}
+      \strng{bibnamehash}{b7b96cdbdf4ddbab8d3c56d9e47475b1}
+      \strng{authorbibnamehash}{b7b96cdbdf4ddbab8d3c56d9e47475b1}
+      \strng{authornamehash}{b7b96cdbdf4ddbab8d3c56d9e47475b1}
+      \strng{authorfullhash}{b7b96cdbdf4ddbab8d3c56d9e47475b1}
+      \strng{authorfullhashraw}{b7b96cdbdf4ddbab8d3c56d9e47475b1}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780691129426}
+      \field{title}{The Myth of the Rational Voter: Why Democracies Choose Bad Policies}
+      \field{year}{2007}
+      \true{nocite}
+    \endentry
+    \entry{Chinn:Frieden:2011}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=7f78fc7a09b9b54b93a3d33a5d6ccc2b}{%
+           family={Chinn},
+           familyi={C\bibinitperiod},
+           given={Menzie\bibnamedelima D.},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=de12fa913b5e5500003c2a4323c5fccb}{%
+           family={Frieden},
+           familyi={F\bibinitperiod},
+           given={Jeffry\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {W. W. Norton \& Company}%
+      }
+      \strng{namehash}{b464ebf3622aa65637ce575454db61fd}
+      \strng{fullhash}{b464ebf3622aa65637ce575454db61fd}
+      \strng{fullhashraw}{b464ebf3622aa65637ce575454db61fd}
+      \strng{bibnamehash}{b464ebf3622aa65637ce575454db61fd}
+      \strng{authorbibnamehash}{b464ebf3622aa65637ce575454db61fd}
+      \strng{authornamehash}{b464ebf3622aa65637ce575454db61fd}
+      \strng{authorfullhash}{b464ebf3622aa65637ce575454db61fd}
+      \strng{authorfullhashraw}{b464ebf3622aa65637ce575454db61fd}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0393076504}
+      \field{title}{Lost Decades: The Making of America's Debt Crisis and the Long Recovery}
+      \field{year}{2011}
+      \true{nocite}
+    \endentry
+    \entry{Clason:2002}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=8c2fcdb5d46e8afdfb35df670f8701a4}{%
+           family={Clason},
+           familyi={C\bibinitperiod},
+           given={George\bibnamedelima S.},
+           giveni={G\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Berkley}%
+      }
+      \strng{namehash}{8c2fcdb5d46e8afdfb35df670f8701a4}
+      \strng{fullhash}{8c2fcdb5d46e8afdfb35df670f8701a4}
+      \strng{fullhashraw}{8c2fcdb5d46e8afdfb35df670f8701a4}
+      \strng{bibnamehash}{8c2fcdb5d46e8afdfb35df670f8701a4}
+      \strng{authorbibnamehash}{8c2fcdb5d46e8afdfb35df670f8701a4}
+      \strng{authornamehash}{8c2fcdb5d46e8afdfb35df670f8701a4}
+      \strng{authorfullhash}{8c2fcdb5d46e8afdfb35df670f8701a4}
+      \strng{authorfullhashraw}{8c2fcdb5d46e8afdfb35df670f8701a4}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0451205367}
+      \field{title}{The Richest Man in Babylon}
+      \field{year}{2002}
+      \true{nocite}
+    \endentry
+    \entry{Collier:2007}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=27c0d70e2ccc0d27aad2e650cc1a8f50}{%
+           family={Collier},
+           familyi={C\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{27c0d70e2ccc0d27aad2e650cc1a8f50}
+      \strng{fullhash}{27c0d70e2ccc0d27aad2e650cc1a8f50}
+      \strng{fullhashraw}{27c0d70e2ccc0d27aad2e650cc1a8f50}
+      \strng{bibnamehash}{27c0d70e2ccc0d27aad2e650cc1a8f50}
+      \strng{authorbibnamehash}{27c0d70e2ccc0d27aad2e650cc1a8f50}
+      \strng{authornamehash}{27c0d70e2ccc0d27aad2e650cc1a8f50}
+      \strng{authorfullhash}{27c0d70e2ccc0d27aad2e650cc1a8f50}
+      \strng{authorfullhashraw}{27c0d70e2ccc0d27aad2e650cc1a8f50}
+      \field{extraname}{1}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780195311457}
+      \field{title}{The Bottom Billion: Why the Poorest Countries are Failing and What Can Be Done About It}
+      \field{year}{2007}
+      \true{nocite}
+    \endentry
+    \entry{Collier:2009}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=27c0d70e2ccc0d27aad2e650cc1a8f50}{%
+           family={Collier},
+           familyi={C\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Harper}%
+      }
+      \strng{namehash}{27c0d70e2ccc0d27aad2e650cc1a8f50}
+      \strng{fullhash}{27c0d70e2ccc0d27aad2e650cc1a8f50}
+      \strng{fullhashraw}{27c0d70e2ccc0d27aad2e650cc1a8f50}
+      \strng{bibnamehash}{27c0d70e2ccc0d27aad2e650cc1a8f50}
+      \strng{authorbibnamehash}{27c0d70e2ccc0d27aad2e650cc1a8f50}
+      \strng{authornamehash}{27c0d70e2ccc0d27aad2e650cc1a8f50}
+      \strng{authorfullhash}{27c0d70e2ccc0d27aad2e650cc1a8f50}
+      \strng{authorfullhashraw}{27c0d70e2ccc0d27aad2e650cc1a8f50}
+      \field{extraname}{2}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0061479632}
+      \field{title}{Wars, Guns, and Votes: Democracy in Dangerous Places}
+      \field{year}{2009}
+      \true{nocite}
+    \endentry
+    \entry{Dixit:Nalebuff:1991}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=d5a3760fe7a12600adbf3e18b40824fb}{%
+           family={Dixit},
+           familyi={D\bibinitperiod},
+           given={Avinash\bibnamedelima K.},
+           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=9e997a2af7ed8bb4ed8da5fa799fc9fb}{%
+           family={Nalebuff},
+           familyi={N\bibinitperiod},
+           given={Barry\bibnamedelima J.},
+           giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {W W Norton \& Company}%
+      }
+      \strng{namehash}{4c79147ffeeef40946b6fdf2d33d5ce3}
+      \strng{fullhash}{4c79147ffeeef40946b6fdf2d33d5ce3}
+      \strng{fullhashraw}{4c79147ffeeef40946b6fdf2d33d5ce3}
+      \strng{bibnamehash}{4c79147ffeeef40946b6fdf2d33d5ce3}
+      \strng{authorbibnamehash}{4c79147ffeeef40946b6fdf2d33d5ce3}
+      \strng{authornamehash}{4c79147ffeeef40946b6fdf2d33d5ce3}
+      \strng{authorfullhash}{4c79147ffeeef40946b6fdf2d33d5ce3}
+      \strng{authorfullhashraw}{4c79147ffeeef40946b6fdf2d33d5ce3}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0393029239}
+      \field{title}{Thinking Strategically: The Competitive Edge in Business, Politics and Everyday Life}
+      \field{year}{1991}
+      \true{nocite}
+    \endentry
+    \entry{Duffie:2010}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=41e57cb33fe261e63fff879cbd1d79c1}{%
+           family={Duffie},
+           familyi={D\bibinitperiod},
+           given={Darrell},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Princeton University Press}%
+      }
+      \strng{namehash}{41e57cb33fe261e63fff879cbd1d79c1}
+      \strng{fullhash}{41e57cb33fe261e63fff879cbd1d79c1}
+      \strng{fullhashraw}{41e57cb33fe261e63fff879cbd1d79c1}
+      \strng{bibnamehash}{41e57cb33fe261e63fff879cbd1d79c1}
+      \strng{authorbibnamehash}{41e57cb33fe261e63fff879cbd1d79c1}
+      \strng{authornamehash}{41e57cb33fe261e63fff879cbd1d79c1}
+      \strng{authorfullhash}{41e57cb33fe261e63fff879cbd1d79c1}
+      \strng{authorfullhashraw}{41e57cb33fe261e63fff879cbd1d79c1}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0691148856}
+      \field{title}{How Big Banks Fail and What to Do about It}
+      \field{year}{2010}
+      \true{nocite}
+    \endentry
+    \entry{Easterly:2006}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=d5d3ec5e8da6af82163184f502c8adca}{%
+           family={Easterly},
+           familyi={E\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Penguin Press HC}%
+      }
+      \strng{namehash}{d5d3ec5e8da6af82163184f502c8adca}
+      \strng{fullhash}{d5d3ec5e8da6af82163184f502c8adca}
+      \strng{fullhashraw}{d5d3ec5e8da6af82163184f502c8adca}
+      \strng{bibnamehash}{d5d3ec5e8da6af82163184f502c8adca}
+      \strng{authorbibnamehash}{d5d3ec5e8da6af82163184f502c8adca}
+      \strng{authornamehash}{d5d3ec5e8da6af82163184f502c8adca}
+      \strng{authorfullhash}{d5d3ec5e8da6af82163184f502c8adca}
+      \strng{authorfullhashraw}{d5d3ec5e8da6af82163184f502c8adca}
+      \field{extraname}{1}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{1594200378}
+      \field{title}{The White Man's Burden: Why the West's Efforts to Aid the Rest Have Done So Much Ill and So Little Good}
+      \field{year}{2006}
+      \true{nocite}
+    \endentry
+    \entry{Easterly:2008}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=1616db721603b0c3102f8928a09fcf2c}{%
+           family={Easterly},
+           familyi={E\bibinitperiod},
+           given={William\bibnamedelima R.},
+           giveni={W\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The MIT Press}%
+      }
+      \strng{namehash}{1616db721603b0c3102f8928a09fcf2c}
+      \strng{fullhash}{1616db721603b0c3102f8928a09fcf2c}
+      \strng{fullhashraw}{1616db721603b0c3102f8928a09fcf2c}
+      \strng{bibnamehash}{1616db721603b0c3102f8928a09fcf2c}
+      \strng{authorbibnamehash}{1616db721603b0c3102f8928a09fcf2c}
+      \strng{authornamehash}{1616db721603b0c3102f8928a09fcf2c}
+      \strng{authorfullhash}{1616db721603b0c3102f8928a09fcf2c}
+      \strng{authorfullhashraw}{1616db721603b0c3102f8928a09fcf2c}
+      \field{extraname}{2}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Reinventing Foreign Aid}
+      \field{year}{2008}
+      \true{nocite}
+    \endentry
+    \entry{Easterly:2001}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=1616db721603b0c3102f8928a09fcf2c}{%
+           family={Easterly},
+           familyi={E\bibinitperiod},
+           given={William\bibnamedelima R.},
+           giveni={W\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The MIT Press}%
+      }
+      \strng{namehash}{1616db721603b0c3102f8928a09fcf2c}
+      \strng{fullhash}{1616db721603b0c3102f8928a09fcf2c}
+      \strng{fullhashraw}{1616db721603b0c3102f8928a09fcf2c}
+      \strng{bibnamehash}{1616db721603b0c3102f8928a09fcf2c}
+      \strng{authorbibnamehash}{1616db721603b0c3102f8928a09fcf2c}
+      \strng{authornamehash}{1616db721603b0c3102f8928a09fcf2c}
+      \strng{authorfullhash}{1616db721603b0c3102f8928a09fcf2c}
+      \strng{authorfullhashraw}{1616db721603b0c3102f8928a09fcf2c}
+      \field{extraname}{3}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0262550423}
+      \field{title}{The Elusive Quest for Growth: Economists' Adventures and Misadventures in the Tropics}
+      \field{year}{2001}
+      \true{nocite}
+    \endentry
+    \entry{Frank:1985:Pond}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=3c8287fc9d8ff0500ba518df094468ec}{%
+           family={Frank},
+           familyi={F\bibinitperiod},
+           given={Robert\bibnamedelima H},
+           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {New York: Oxford University Press}%
+      }
+      \strng{namehash}{3c8287fc9d8ff0500ba518df094468ec}
+      \strng{fullhash}{3c8287fc9d8ff0500ba518df094468ec}
+      \strng{fullhashraw}{3c8287fc9d8ff0500ba518df094468ec}
+      \strng{bibnamehash}{3c8287fc9d8ff0500ba518df094468ec}
+      \strng{authorbibnamehash}{3c8287fc9d8ff0500ba518df094468ec}
+      \strng{authornamehash}{3c8287fc9d8ff0500ba518df094468ec}
+      \strng{authorfullhash}{3c8287fc9d8ff0500ba518df094468ec}
+      \strng{authorfullhashraw}{3c8287fc9d8ff0500ba518df094468ec}
+      \field{extraname}{1}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0195049459}
+      \field{title}{On Choosing the Right Pond: Human Behavior and the Quest for Status}
+      \field{year}{1985}
+      \true{nocite}
+    \endentry
+    \entry{Frank:2008}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=3c8287fc9d8ff0500ba518df094468ec}{%
+           family={Frank},
+           familyi={F\bibinitperiod},
+           given={Robert\bibnamedelima H.},
+           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Virgin Books}%
+      }
+      \strng{namehash}{3c8287fc9d8ff0500ba518df094468ec}
+      \strng{fullhash}{3c8287fc9d8ff0500ba518df094468ec}
+      \strng{fullhashraw}{3c8287fc9d8ff0500ba518df094468ec}
+      \strng{bibnamehash}{3c8287fc9d8ff0500ba518df094468ec}
+      \strng{authorbibnamehash}{3c8287fc9d8ff0500ba518df094468ec}
+      \strng{authornamehash}{3c8287fc9d8ff0500ba518df094468ec}
+      \strng{authorfullhash}{3c8287fc9d8ff0500ba518df094468ec}
+      \strng{authorfullhashraw}{3c8287fc9d8ff0500ba518df094468ec}
+      \field{extraname}{2}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0753513382}
+      \field{title}{The Economic Naturalist: Why Economics Explains Almost Everything}
+      \field{year}{2008}
+      \true{nocite}
+    \endentry
+    \entry{Friedman:2005}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=81c0de5940a159df0d3f76df9d9e7024}{%
+           family={Friedman},
+           familyi={F\bibinitperiod},
+           given={Benjamin\bibnamedelima M.},
+           giveni={B\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Knopf}%
+      }
+      \strng{namehash}{81c0de5940a159df0d3f76df9d9e7024}
+      \strng{fullhash}{81c0de5940a159df0d3f76df9d9e7024}
+      \strng{fullhashraw}{81c0de5940a159df0d3f76df9d9e7024}
+      \strng{bibnamehash}{81c0de5940a159df0d3f76df9d9e7024}
+      \strng{authorbibnamehash}{81c0de5940a159df0d3f76df9d9e7024}
+      \strng{authornamehash}{81c0de5940a159df0d3f76df9d9e7024}
+      \strng{authorfullhash}{81c0de5940a159df0d3f76df9d9e7024}
+      \strng{authorfullhashraw}{81c0de5940a159df0d3f76df9d9e7024}
+      \field{extraname}{1}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0679448918}
+      \field{title}{The Moral Consequences of Economic Growth}
+      \field{year}{2005}
+      \true{nocite}
+    \endentry
+    \entry{Friedman:2008}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=7701419b849ecb532a8c0515f223e8e3}{%
+           family={Friedman},
+           familyi={F\bibinitperiod},
+           given={David\bibnamedelima D.},
+           giveni={D\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{7701419b849ecb532a8c0515f223e8e3}
+      \strng{fullhash}{7701419b849ecb532a8c0515f223e8e3}
+      \strng{fullhashraw}{7701419b849ecb532a8c0515f223e8e3}
+      \strng{bibnamehash}{7701419b849ecb532a8c0515f223e8e3}
+      \strng{authorbibnamehash}{7701419b849ecb532a8c0515f223e8e3}
+      \strng{authornamehash}{7701419b849ecb532a8c0515f223e8e3}
+      \strng{authorfullhash}{7701419b849ecb532a8c0515f223e8e3}
+      \strng{authorfullhashraw}{7701419b849ecb532a8c0515f223e8e3}
+      \field{extraname}{2}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0521877326}
+      \field{title}{Future Imperfect: Technology and Freedom in an Uncertain World}
+      \field{year}{2008}
+      \true{nocite}
+    \endentry
+    \entry{Friedman:1996}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=7701419b849ecb532a8c0515f223e8e3}{%
+           family={Friedman},
+           familyi={F\bibinitperiod},
+           given={David\bibnamedelima D.},
+           giveni={D\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Harper-Collins}%
+      }
+      \strng{namehash}{7701419b849ecb532a8c0515f223e8e3}
+      \strng{fullhash}{7701419b849ecb532a8c0515f223e8e3}
+      \strng{fullhashraw}{7701419b849ecb532a8c0515f223e8e3}
+      \strng{bibnamehash}{7701419b849ecb532a8c0515f223e8e3}
+      \strng{authorbibnamehash}{7701419b849ecb532a8c0515f223e8e3}
+      \strng{authornamehash}{7701419b849ecb532a8c0515f223e8e3}
+      \strng{authorfullhash}{7701419b849ecb532a8c0515f223e8e3}
+      \strng{authorfullhashraw}{7701419b849ecb532a8c0515f223e8e3}
+      \field{extraname}{3}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Hidden Order: The Economics of Everyday Life}
+      \field{year}{1996}
+      \true{nocite}
+    \endentry
+    \entry{Friedman:1962}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=ed599767cda235bc9b7bb0e787374d60}{%
+           family={Friedman},
+           familyi={F\bibinitperiod},
+           given={Milton},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {University of Chicago Press}%
+      }
+      \strng{namehash}{ed599767cda235bc9b7bb0e787374d60}
+      \strng{fullhash}{ed599767cda235bc9b7bb0e787374d60}
+      \strng{fullhashraw}{ed599767cda235bc9b7bb0e787374d60}
+      \strng{bibnamehash}{ed599767cda235bc9b7bb0e787374d60}
+      \strng{authorbibnamehash}{ed599767cda235bc9b7bb0e787374d60}
+      \strng{authornamehash}{ed599767cda235bc9b7bb0e787374d60}
+      \strng{authorfullhash}{ed599767cda235bc9b7bb0e787374d60}
+      \strng{authorfullhashraw}{ed599767cda235bc9b7bb0e787374d60}
+      \field{extraname}{4}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0226264211}
+      \field{title}{Capitalism and Freedom}
+      \field{year}{1962}
+      \true{nocite}
+    \endentry
+    \entry{Friedman:1992}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=ed599767cda235bc9b7bb0e787374d60}{%
+           family={Friedman},
+           familyi={F\bibinitperiod},
+           given={Milton},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Houghton Mifflin Harcourt P}%
+      }
+      \strng{namehash}{ed599767cda235bc9b7bb0e787374d60}
+      \strng{fullhash}{ed599767cda235bc9b7bb0e787374d60}
+      \strng{fullhashraw}{ed599767cda235bc9b7bb0e787374d60}
+      \strng{bibnamehash}{ed599767cda235bc9b7bb0e787374d60}
+      \strng{authorbibnamehash}{ed599767cda235bc9b7bb0e787374d60}
+      \strng{authornamehash}{ed599767cda235bc9b7bb0e787374d60}
+      \strng{authorfullhash}{ed599767cda235bc9b7bb0e787374d60}
+      \strng{authorfullhashraw}{ed599767cda235bc9b7bb0e787374d60}
+      \field{extraname}{5}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0151620423}
+      \field{title}{Money Mischief: Episodes in Monetary History}
+      \field{year}{1992}
+      \true{nocite}
+    \endentry
+    \entry{Friedman:Friedman:1980}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=ed599767cda235bc9b7bb0e787374d60}{%
+           family={Friedman},
+           familyi={F\bibinitperiod},
+           given={Milton},
+           giveni={M\bibinitperiod}}}%
+        {{hash=1c25c99617cd6f42bd00945bb5decf42}{%
+           family={Friedman},
+           familyi={F\bibinitperiod},
+           given={Rose\bibnamedelima D.},
+           giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Harcourt}%
+      }
+      \strng{namehash}{475728bde4eced55598a01d54a5d35a3}
+      \strng{fullhash}{475728bde4eced55598a01d54a5d35a3}
+      \strng{fullhashraw}{475728bde4eced55598a01d54a5d35a3}
+      \strng{bibnamehash}{475728bde4eced55598a01d54a5d35a3}
+      \strng{authorbibnamehash}{475728bde4eced55598a01d54a5d35a3}
+      \strng{authornamehash}{475728bde4eced55598a01d54a5d35a3}
+      \strng{authorfullhash}{475728bde4eced55598a01d54a5d35a3}
+      \strng{authorfullhashraw}{475728bde4eced55598a01d54a5d35a3}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780156334600}
+      \field{title}{Free to Choose: A Personal Statement}
+      \field{year}{1980}
+      \true{nocite}
+    \endentry
+    \entry{Galbraith:1994}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=f39bd6d605148dcde4728ef988783901}{%
+           family={Galbraith},
+           familyi={G\bibinitperiod},
+           given={John\bibnamedelima K.},
+           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Penguin}%
+      }
+      \strng{namehash}{f39bd6d605148dcde4728ef988783901}
+      \strng{fullhash}{f39bd6d605148dcde4728ef988783901}
+      \strng{fullhashraw}{f39bd6d605148dcde4728ef988783901}
+      \strng{bibnamehash}{f39bd6d605148dcde4728ef988783901}
+      \strng{authorbibnamehash}{f39bd6d605148dcde4728ef988783901}
+      \strng{authornamehash}{f39bd6d605148dcde4728ef988783901}
+      \strng{authorfullhash}{f39bd6d605148dcde4728ef988783901}
+      \strng{authorfullhashraw}{f39bd6d605148dcde4728ef988783901}
+      \field{extraname}{1}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0140238565}
+      \field{title}{A Short History of Financial Euphoria}
+      \field{year}{1994}
+      \true{nocite}
+    \endentry
+    \entry{Galbraith:1958}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=f39bd6d605148dcde4728ef988783901}{%
+           family={Galbraith},
+           familyi={G\bibinitperiod},
+           given={John\bibnamedelima K.},
+           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Mariner Books}%
+      }
+      \strng{namehash}{f39bd6d605148dcde4728ef988783901}
+      \strng{fullhash}{f39bd6d605148dcde4728ef988783901}
+      \strng{fullhashraw}{f39bd6d605148dcde4728ef988783901}
+      \strng{bibnamehash}{f39bd6d605148dcde4728ef988783901}
+      \strng{authorbibnamehash}{f39bd6d605148dcde4728ef988783901}
+      \strng{authornamehash}{f39bd6d605148dcde4728ef988783901}
+      \strng{authorfullhash}{f39bd6d605148dcde4728ef988783901}
+      \strng{authorfullhashraw}{f39bd6d605148dcde4728ef988783901}
+      \field{extraname}{2}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0395925002}
+      \field{title}{The Affluent Society}
+      \field{year}{1958}
+      \true{nocite}
+    \endentry
+    \entry{Galbraith:1954}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=f39bd6d605148dcde4728ef988783901}{%
+           family={Galbraith},
+           familyi={G\bibinitperiod},
+           given={John\bibnamedelima K.},
+           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Time Inc}%
+      }
+      \strng{namehash}{f39bd6d605148dcde4728ef988783901}
+      \strng{fullhash}{f39bd6d605148dcde4728ef988783901}
+      \strng{fullhashraw}{f39bd6d605148dcde4728ef988783901}
+      \strng{bibnamehash}{f39bd6d605148dcde4728ef988783901}
+      \strng{authorbibnamehash}{f39bd6d605148dcde4728ef988783901}
+      \strng{authornamehash}{f39bd6d605148dcde4728ef988783901}
+      \strng{authorfullhash}{f39bd6d605148dcde4728ef988783901}
+      \strng{authorfullhashraw}{f39bd6d605148dcde4728ef988783901}
+      \field{extraname}{3}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Great Crash, 1929}
+      \field{year}{1994}
+      \true{nocite}
+    \endentry
+    \entry{Gardner:Gardner:2002}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=4dbddf4b4a1b9d2a925e7917a590f7b9}{%
+           family={Gardner},
+           familyi={G\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=8210969c30e21602e453f91bea87a045}{%
+           family={Gardner},
+           familyi={G\bibinitperiod},
+           given={Tom},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Touchstone}%
+      }
+      \strng{namehash}{4dc3b62af8e63e3220ea0c5e54b578dc}
+      \strng{fullhash}{4dc3b62af8e63e3220ea0c5e54b578dc}
+      \strng{fullhashraw}{4dc3b62af8e63e3220ea0c5e54b578dc}
+      \strng{bibnamehash}{4dc3b62af8e63e3220ea0c5e54b578dc}
+      \strng{authorbibnamehash}{4dc3b62af8e63e3220ea0c5e54b578dc}
+      \strng{authornamehash}{4dc3b62af8e63e3220ea0c5e54b578dc}
+      \strng{authorfullhash}{4dc3b62af8e63e3220ea0c5e54b578dc}
+      \strng{authorfullhashraw}{4dc3b62af8e63e3220ea0c5e54b578dc}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0743229987}
+      \field{title}{The Motley Fool Investment Guide for Teens: How to Have More Money Than Your Parents Ever Dreamed Of}
+      \field{year}{2002}
+      \true{nocite}
+    \endentry
+    \entry{Geithner:2015}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=4553f1d8ed9dc529f1861fb42834fd36}{%
+           family={Geithner},
+           familyi={G\bibinitperiod},
+           given={Timothy\bibnamedelima F.},
+           giveni={T\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Broadway Books}%
+      }
+      \strng{namehash}{4553f1d8ed9dc529f1861fb42834fd36}
+      \strng{fullhash}{4553f1d8ed9dc529f1861fb42834fd36}
+      \strng{fullhashraw}{4553f1d8ed9dc529f1861fb42834fd36}
+      \strng{bibnamehash}{4553f1d8ed9dc529f1861fb42834fd36}
+      \strng{authorbibnamehash}{4553f1d8ed9dc529f1861fb42834fd36}
+      \strng{authornamehash}{4553f1d8ed9dc529f1861fb42834fd36}
+      \strng{authorfullhash}{4553f1d8ed9dc529f1861fb42834fd36}
+      \strng{authorfullhashraw}{4553f1d8ed9dc529f1861fb42834fd36}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0804138613}
+      \field{title}{Stress Test: Reflections on Financial Crises}
+      \field{year}{2015}
+      \true{nocite}
+    \endentry
+    \entry{Gladwell:2008}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=a386a9bddee106b28268b5cd7225b08d}{%
+           family={Gladwell},
+           familyi={G\bibinitperiod},
+           given={Malcolm},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Little, Brown}%
+        {Company}%
+      }
+      \strng{namehash}{a386a9bddee106b28268b5cd7225b08d}
+      \strng{fullhash}{a386a9bddee106b28268b5cd7225b08d}
+      \strng{fullhashraw}{a386a9bddee106b28268b5cd7225b08d}
+      \strng{bibnamehash}{a386a9bddee106b28268b5cd7225b08d}
+      \strng{authorbibnamehash}{a386a9bddee106b28268b5cd7225b08d}
+      \strng{authornamehash}{a386a9bddee106b28268b5cd7225b08d}
+      \strng{authorfullhash}{a386a9bddee106b28268b5cd7225b08d}
+      \strng{authorfullhashraw}{a386a9bddee106b28268b5cd7225b08d}
+      \field{extraname}{1}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780316017923}
+      \field{title}{Outliers: The Story of Success}
+      \field{year}{2008}
+      \true{nocite}
+    \endentry
+    \entry{Gladwell:2000}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=a386a9bddee106b28268b5cd7225b08d}{%
+           family={Gladwell},
+           familyi={G\bibinitperiod},
+           given={Malcolm},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Little, Brown}%
+        {Company}%
+      }
+      \strng{namehash}{a386a9bddee106b28268b5cd7225b08d}
+      \strng{fullhash}{a386a9bddee106b28268b5cd7225b08d}
+      \strng{fullhashraw}{a386a9bddee106b28268b5cd7225b08d}
+      \strng{bibnamehash}{a386a9bddee106b28268b5cd7225b08d}
+      \strng{authorbibnamehash}{a386a9bddee106b28268b5cd7225b08d}
+      \strng{authornamehash}{a386a9bddee106b28268b5cd7225b08d}
+      \strng{authorfullhash}{a386a9bddee106b28268b5cd7225b08d}
+      \strng{authorfullhashraw}{a386a9bddee106b28268b5cd7225b08d}
+      \field{extraname}{2}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0316316962}
+      \field{title}{The Tipping Point: How Little Things Can Make a Big Difference}
+      \field{year}{2000}
+      \true{nocite}
+    \endentry
+    \entry{Greenspan:2008}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=0c0300576f7a26e4c3d292517e562a3f}{%
+           family={Greenspan},
+           familyi={G\bibinitperiod},
+           given={Alan},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Penguin}%
+      }
+      \strng{namehash}{0c0300576f7a26e4c3d292517e562a3f}
+      \strng{fullhash}{0c0300576f7a26e4c3d292517e562a3f}
+      \strng{fullhashraw}{0c0300576f7a26e4c3d292517e562a3f}
+      \strng{bibnamehash}{0c0300576f7a26e4c3d292517e562a3f}
+      \strng{authorbibnamehash}{0c0300576f7a26e4c3d292517e562a3f}
+      \strng{authornamehash}{0c0300576f7a26e4c3d292517e562a3f}
+      \strng{authorfullhash}{0c0300576f7a26e4c3d292517e562a3f}
+      \strng{authorfullhashraw}{0c0300576f7a26e4c3d292517e562a3f}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0143114166}
+      \field{title}{The Age of Turbulence}
+      \field{year}{2008}
+      \true{nocite}
+    \endentry
+    \entry{Harcourt:2008}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=ea70632323d7e92a2865632fec1b1797}{%
+           family={Harcourt},
+           familyi={H\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Allen \& Unwin}%
+      }
+      \strng{namehash}{ea70632323d7e92a2865632fec1b1797}
+      \strng{fullhash}{ea70632323d7e92a2865632fec1b1797}
+      \strng{fullhashraw}{ea70632323d7e92a2865632fec1b1797}
+      \strng{bibnamehash}{ea70632323d7e92a2865632fec1b1797}
+      \strng{authorbibnamehash}{ea70632323d7e92a2865632fec1b1797}
+      \strng{authornamehash}{ea70632323d7e92a2865632fec1b1797}
+      \strng{authorfullhash}{ea70632323d7e92a2865632fec1b1797}
+      \strng{authorfullhashraw}{ea70632323d7e92a2865632fec1b1797}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{1741755123}
+      \field{title}{Airport Economist}
+      \field{year}{2008}
+      \true{nocite}
+    \endentry
+    \entry{Harford:2020}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=1a4175bad9011ce44c2dc783635a0f15}{%
+           family={Harford},
+           familyi={H\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The Bridge Street Press}%
+      }
+      \strng{namehash}{1a4175bad9011ce44c2dc783635a0f15}
+      \strng{fullhash}{1a4175bad9011ce44c2dc783635a0f15}
+      \strng{fullhashraw}{1a4175bad9011ce44c2dc783635a0f15}
+      \strng{bibnamehash}{1a4175bad9011ce44c2dc783635a0f15}
+      \strng{authorbibnamehash}{1a4175bad9011ce44c2dc783635a0f15}
+      \strng{authornamehash}{1a4175bad9011ce44c2dc783635a0f15}
+      \strng{authorfullhash}{1a4175bad9011ce44c2dc783635a0f15}
+      \strng{authorfullhashraw}{1a4175bad9011ce44c2dc783635a0f15}
+      \field{extraname}{1}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780349143866}
+      \field{title}{How to Make the World Add Up: Ten Rules for Thinking Differently About Numbers}
+      \field{year}{2020}
+      \true{nocite}
+    \endentry
+    \entry{Harford:2005}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=1a4175bad9011ce44c2dc783635a0f15}{%
+           family={Harford},
+           familyi={H\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Little, Brown}%
+      }
+      \strng{namehash}{1a4175bad9011ce44c2dc783635a0f15}
+      \strng{fullhash}{1a4175bad9011ce44c2dc783635a0f15}
+      \strng{fullhashraw}{1a4175bad9011ce44c2dc783635a0f15}
+      \strng{bibnamehash}{1a4175bad9011ce44c2dc783635a0f15}
+      \strng{authorbibnamehash}{1a4175bad9011ce44c2dc783635a0f15}
+      \strng{authornamehash}{1a4175bad9011ce44c2dc783635a0f15}
+      \strng{authorfullhash}{1a4175bad9011ce44c2dc783635a0f15}
+      \strng{authorfullhashraw}{1a4175bad9011ce44c2dc783635a0f15}
+      \field{extraname}{2}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0195189779}
+      \field{title}{The Undercover Economist}
+      \field{year}{2005}
+      \true{nocite}
+    \endentry
+    \entry{Hayek:1960}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=98e46b1dddd71a1b8786b9778e4ea675}{%
+           family={Hayek},
+           familyi={H\bibinitperiod},
+           given={Friedrich\bibnamedelima A.},
+           giveni={F\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {University Of Chicago Press}%
+      }
+      \strng{namehash}{98e46b1dddd71a1b8786b9778e4ea675}
+      \strng{fullhash}{98e46b1dddd71a1b8786b9778e4ea675}
+      \strng{fullhashraw}{98e46b1dddd71a1b8786b9778e4ea675}
+      \strng{bibnamehash}{98e46b1dddd71a1b8786b9778e4ea675}
+      \strng{authorbibnamehash}{98e46b1dddd71a1b8786b9778e4ea675}
+      \strng{authornamehash}{98e46b1dddd71a1b8786b9778e4ea675}
+      \strng{authorfullhash}{98e46b1dddd71a1b8786b9778e4ea675}
+      \strng{authorfullhashraw}{98e46b1dddd71a1b8786b9778e4ea675}
+      \field{extraname}{1}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0226320847}
+      \field{title}{The Constitution of Liberty}
+      \field{year}{1960}
+      \true{nocite}
+    \endentry
+    \entry{Hayek:2007}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=98e46b1dddd71a1b8786b9778e4ea675}{%
+           family={Hayek},
+           familyi={H\bibinitperiod},
+           given={Friedrich\bibnamedelima A.},
+           giveni={F\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {University Of Chicago Press}%
+      }
+      \strng{namehash}{98e46b1dddd71a1b8786b9778e4ea675}
+      \strng{fullhash}{98e46b1dddd71a1b8786b9778e4ea675}
+      \strng{fullhashraw}{98e46b1dddd71a1b8786b9778e4ea675}
+      \strng{bibnamehash}{98e46b1dddd71a1b8786b9778e4ea675}
+      \strng{authorbibnamehash}{98e46b1dddd71a1b8786b9778e4ea675}
+      \strng{authornamehash}{98e46b1dddd71a1b8786b9778e4ea675}
+      \strng{authorfullhash}{98e46b1dddd71a1b8786b9778e4ea675}
+      \strng{authorfullhashraw}{98e46b1dddd71a1b8786b9778e4ea675}
+      \field{extraname}{2}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0226320553}
+      \field{title}{The Road to Serfdom: Text and Documents--The Definitive Edition (The Collected Works of F. A. Hayek)}
+      \field{year}{2007}
+      \true{nocite}
+    \endentry
+    \entry{Hazlitt:1946}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=1129cbf7c1434c12414425271c8988ec}{%
+           family={Hazlitt},
+           familyi={H\bibinitperiod},
+           given={Henry},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Harper \& Brothers}%
+      }
+      \strng{namehash}{1129cbf7c1434c12414425271c8988ec}
+      \strng{fullhash}{1129cbf7c1434c12414425271c8988ec}
+      \strng{fullhashraw}{1129cbf7c1434c12414425271c8988ec}
+      \strng{bibnamehash}{1129cbf7c1434c12414425271c8988ec}
+      \strng{authorbibnamehash}{1129cbf7c1434c12414425271c8988ec}
+      \strng{authornamehash}{1129cbf7c1434c12414425271c8988ec}
+      \strng{authorfullhash}{1129cbf7c1434c12414425271c8988ec}
+      \strng{authorfullhashraw}{1129cbf7c1434c12414425271c8988ec}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Economics in One Lesson}
+      \field{year}{1946}
+      \true{nocite}
+    \endentry
+    \entry{Heilbroner:1953}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=16f8ec9a57ab573e8860c082837a09f9}{%
+           family={Heilbroner},
+           familyi={H\bibinitperiod},
+           given={Robert\bibnamedelima L.},
+           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Simon \& Schuster}%
+      }
+      \strng{namehash}{16f8ec9a57ab573e8860c082837a09f9}
+      \strng{fullhash}{16f8ec9a57ab573e8860c082837a09f9}
+      \strng{fullhashraw}{16f8ec9a57ab573e8860c082837a09f9}
+      \strng{bibnamehash}{16f8ec9a57ab573e8860c082837a09f9}
+      \strng{authorbibnamehash}{16f8ec9a57ab573e8860c082837a09f9}
+      \strng{authornamehash}{16f8ec9a57ab573e8860c082837a09f9}
+      \strng{authorfullhash}{16f8ec9a57ab573e8860c082837a09f9}
+      \strng{authorfullhashraw}{16f8ec9a57ab573e8860c082837a09f9}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Worldly Philosophers: The Lives, Times And Ideas Of The Great Economic Thinkers}
+      \field{year}{1953}
+      \true{nocite}
+    \endentry
+    \entry{Helpman:2004}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=21befab6a0c50cc5cd0e449398ffee8b}{%
+           family={Helpman},
+           familyi={H\bibinitperiod},
+           given={Elhanan},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Belknap Press of Harvard University Press}%
+      }
+      \strng{namehash}{21befab6a0c50cc5cd0e449398ffee8b}
+      \strng{fullhash}{21befab6a0c50cc5cd0e449398ffee8b}
+      \strng{fullhashraw}{21befab6a0c50cc5cd0e449398ffee8b}
+      \strng{bibnamehash}{21befab6a0c50cc5cd0e449398ffee8b}
+      \strng{authorbibnamehash}{21befab6a0c50cc5cd0e449398ffee8b}
+      \strng{authornamehash}{21befab6a0c50cc5cd0e449398ffee8b}
+      \strng{authorfullhash}{21befab6a0c50cc5cd0e449398ffee8b}
+      \strng{authorfullhashraw}{21befab6a0c50cc5cd0e449398ffee8b}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{067401572X}
+      \field{title}{The Mystery of Economic Growth}
+      \field{year}{2004}
+      \true{nocite}
+    \endentry
+    \entry{Housel:2020}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=ccf40b6c1cc74da4c584d4b9eaa06d17}{%
+           family={Housel},
+           familyi={H\bibinitperiod},
+           given={Morgan},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Harriman House}%
+      }
+      \strng{namehash}{ccf40b6c1cc74da4c584d4b9eaa06d17}
+      \strng{fullhash}{ccf40b6c1cc74da4c584d4b9eaa06d17}
+      \strng{fullhashraw}{ccf40b6c1cc74da4c584d4b9eaa06d17}
+      \strng{bibnamehash}{ccf40b6c1cc74da4c584d4b9eaa06d17}
+      \strng{authorbibnamehash}{ccf40b6c1cc74da4c584d4b9eaa06d17}
+      \strng{authornamehash}{ccf40b6c1cc74da4c584d4b9eaa06d17}
+      \strng{authorfullhash}{ccf40b6c1cc74da4c584d4b9eaa06d17}
+      \strng{authorfullhashraw}{ccf40b6c1cc74da4c584d4b9eaa06d17}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780857197689}
+      \field{title}{The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness}
+      \field{year}{2020}
+      \true{nocite}
+    \endentry
+    \entry{Johnson:Kwak:2010}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=38e00ab25a60509b785c20ef8caa89b9}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod}}}%
+        {{hash=5d3a67e05f643740489a208d95ec4c69}{%
+           family={Kwak},
+           familyi={K\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Pantheon}%
+      }
+      \strng{namehash}{e8c157c22be93b00c3b52e81b4d514cd}
+      \strng{fullhash}{e8c157c22be93b00c3b52e81b4d514cd}
+      \strng{fullhashraw}{e8c157c22be93b00c3b52e81b4d514cd}
+      \strng{bibnamehash}{e8c157c22be93b00c3b52e81b4d514cd}
+      \strng{authorbibnamehash}{e8c157c22be93b00c3b52e81b4d514cd}
+      \strng{authornamehash}{e8c157c22be93b00c3b52e81b4d514cd}
+      \strng{authorfullhash}{e8c157c22be93b00c3b52e81b4d514cd}
+      \strng{authorfullhashraw}{e8c157c22be93b00c3b52e81b4d514cd}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0307379051}
+      \field{title}{13 Bankers: The Wall Street Takeover and the Next Financial Meltdown}
+      \field{year}{2010}
+      \true{nocite}
+    \endentry
+    \entry{Kahneman:2011}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=d0dcea81f8587e7d56bb5dbe34a39d6c}{%
+           family={Kahneman},
+           familyi={K\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Farrar, Straus}%
+        {Giroux}%
+      }
+      \strng{namehash}{d0dcea81f8587e7d56bb5dbe34a39d6c}
+      \strng{fullhash}{d0dcea81f8587e7d56bb5dbe34a39d6c}
+      \strng{fullhashraw}{d0dcea81f8587e7d56bb5dbe34a39d6c}
+      \strng{bibnamehash}{d0dcea81f8587e7d56bb5dbe34a39d6c}
+      \strng{authorbibnamehash}{d0dcea81f8587e7d56bb5dbe34a39d6c}
+      \strng{authornamehash}{d0dcea81f8587e7d56bb5dbe34a39d6c}
+      \strng{authorfullhash}{d0dcea81f8587e7d56bb5dbe34a39d6c}
+      \strng{authorfullhashraw}{d0dcea81f8587e7d56bb5dbe34a39d6c}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780374275631}
+      \field{title}{Thinking, Fast and Slow}
+      \field{year}{2011}
+      \true{nocite}
+    \endentry
+    \entry{Kay:2004}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=3a73a9330623fcef222b66dc90681076}{%
+           family={Kay},
+           familyi={K\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The Erasmus Press Ltd}%
+      }
+      \strng{namehash}{3a73a9330623fcef222b66dc90681076}
+      \strng{fullhash}{3a73a9330623fcef222b66dc90681076}
+      \strng{fullhashraw}{3a73a9330623fcef222b66dc90681076}
+      \strng{bibnamehash}{3a73a9330623fcef222b66dc90681076}
+      \strng{authorbibnamehash}{3a73a9330623fcef222b66dc90681076}
+      \strng{authornamehash}{3a73a9330623fcef222b66dc90681076}
+      \strng{authorfullhash}{3a73a9330623fcef222b66dc90681076}
+      \strng{authorfullhashraw}{3a73a9330623fcef222b66dc90681076}
+      \field{extraname}{1}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0954809300}
+      \field{title}{Everlasting Light Bulbs: How Economics Illuminates the World}
+      \field{year}{2004}
+      \true{nocite}
+    \endentry
+    \entry{Kay:2003}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=3a73a9330623fcef222b66dc90681076}{%
+           family={Kay},
+           familyi={K\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Allen Lane}%
+      }
+      \strng{namehash}{3a73a9330623fcef222b66dc90681076}
+      \strng{fullhash}{3a73a9330623fcef222b66dc90681076}
+      \strng{fullhashraw}{3a73a9330623fcef222b66dc90681076}
+      \strng{bibnamehash}{3a73a9330623fcef222b66dc90681076}
+      \strng{authorbibnamehash}{3a73a9330623fcef222b66dc90681076}
+      \strng{authornamehash}{3a73a9330623fcef222b66dc90681076}
+      \strng{authorfullhash}{3a73a9330623fcef222b66dc90681076}
+      \strng{authorfullhashraw}{3a73a9330623fcef222b66dc90681076}
+      \field{extraname}{2}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0713994894}
+      \field{title}{The Truth About Markets}
+      \field{year}{2003}
+      \true{nocite}
+    \endentry
+    \entry{Keynes:1936}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=4e7d424adaa6be19fd11fb5506cf3249}{%
+           family={Keynes},
+           familyi={K\bibinitperiod},
+           given={John\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {BN Publishing}%
+      }
+      \strng{namehash}{4e7d424adaa6be19fd11fb5506cf3249}
+      \strng{fullhash}{4e7d424adaa6be19fd11fb5506cf3249}
+      \strng{fullhashraw}{4e7d424adaa6be19fd11fb5506cf3249}
+      \strng{bibnamehash}{4e7d424adaa6be19fd11fb5506cf3249}
+      \strng{authorbibnamehash}{4e7d424adaa6be19fd11fb5506cf3249}
+      \strng{authornamehash}{4e7d424adaa6be19fd11fb5506cf3249}
+      \strng{authorfullhash}{4e7d424adaa6be19fd11fb5506cf3249}
+      \strng{authorfullhashraw}{4e7d424adaa6be19fd11fb5506cf3249}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{965006026X}
+      \field{title}{The General Theory of Employment, Interest and Money}
+      \field{year}{1936}
+      \true{nocite}
+    \endentry
+    \entry{Kindleberger:1978}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=4354612ee7f9cb45db6e7460dec33ee4}{%
+           family={Kindleberger},
+           familyi={K\bibinitperiod},
+           given={Charles\bibnamedelima P.},
+           giveni={C\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Basic Books, Inc.}%
+      }
+      \strng{namehash}{4354612ee7f9cb45db6e7460dec33ee4}
+      \strng{fullhash}{4354612ee7f9cb45db6e7460dec33ee4}
+      \strng{fullhashraw}{4354612ee7f9cb45db6e7460dec33ee4}
+      \strng{bibnamehash}{4354612ee7f9cb45db6e7460dec33ee4}
+      \strng{authorbibnamehash}{4354612ee7f9cb45db6e7460dec33ee4}
+      \strng{authornamehash}{4354612ee7f9cb45db6e7460dec33ee4}
+      \strng{authorfullhash}{4354612ee7f9cb45db6e7460dec33ee4}
+      \strng{authorfullhashraw}{4354612ee7f9cb45db6e7460dec33ee4}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Manias, Panics and Crashes: A History of Financial Crises}
+      \field{year}{1978}
+      \true{nocite}
+    \endentry
+    \entry{Kindleberger:Aliber:2011}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=4354612ee7f9cb45db6e7460dec33ee4}{%
+           family={Kindleberger},
+           familyi={K\bibinitperiod},
+           given={Charles\bibnamedelima P.},
+           giveni={C\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=e774e87c3c322570bef89e7db7394d20}{%
+           family={Aliber},
+           familyi={A\bibinitperiod},
+           given={Robert\bibnamedelima Z.},
+           giveni={R\bibinitperiod\bibinitdelim Z\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Palgrave Macmillan}%
+      }
+      \strng{namehash}{a0a9fb0892b0a7d46e3adb8cabaaa48d}
+      \strng{fullhash}{a0a9fb0892b0a7d46e3adb8cabaaa48d}
+      \strng{fullhashraw}{a0a9fb0892b0a7d46e3adb8cabaaa48d}
+      \strng{bibnamehash}{a0a9fb0892b0a7d46e3adb8cabaaa48d}
+      \strng{authorbibnamehash}{a0a9fb0892b0a7d46e3adb8cabaaa48d}
+      \strng{authornamehash}{a0a9fb0892b0a7d46e3adb8cabaaa48d}
+      \strng{authorfullhash}{a0a9fb0892b0a7d46e3adb8cabaaa48d}
+      \strng{authorfullhashraw}{a0a9fb0892b0a7d46e3adb8cabaaa48d}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{Sixth Edition}
+      \field{isbn}{0230365353}
+      \field{title}{Manias, Panics and Crashes: A History of Financial Crises}
+      \field{year}{2011}
+      \true{nocite}
+    \endentry
+    \entry{Klein:Thompson:2025}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=6f48939716a0bc7d32938921d11cda23}{%
+           family={Klein},
+           familyi={K\bibinitperiod},
+           given={Ezra},
+           giveni={E\bibinitperiod}}}%
+        {{hash=ce6e4860c7f51e01fe5da48c24df108d}{%
+           family={Thompson},
+           familyi={T\bibinitperiod},
+           given={Derek},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Simon \& Schuster}%
+      }
+      \strng{namehash}{7c0c91a7d3dab96d4f831258f7e9172d}
+      \strng{fullhash}{7c0c91a7d3dab96d4f831258f7e9172d}
+      \strng{fullhashraw}{7c0c91a7d3dab96d4f831258f7e9172d}
+      \strng{bibnamehash}{7c0c91a7d3dab96d4f831258f7e9172d}
+      \strng{authorbibnamehash}{7c0c91a7d3dab96d4f831258f7e9172d}
+      \strng{authornamehash}{7c0c91a7d3dab96d4f831258f7e9172d}
+      \strng{authorfullhash}{7c0c91a7d3dab96d4f831258f7e9172d}
+      \strng{authorfullhashraw}{7c0c91a7d3dab96d4f831258f7e9172d}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781668023501}
+      \field{title}{Abundance}
+      \field{year}{2025}
+      \true{nocite}
+    \endentry
+    \entry{Koo:2009}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=a623b168b6bffae2f19f096d310a72b2}{%
+           family={Koo},
+           familyi={K\bibinitperiod},
+           given={Richard\bibnamedelima C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{a623b168b6bffae2f19f096d310a72b2}
+      \strng{fullhash}{a623b168b6bffae2f19f096d310a72b2}
+      \strng{fullhashraw}{a623b168b6bffae2f19f096d310a72b2}
+      \strng{bibnamehash}{a623b168b6bffae2f19f096d310a72b2}
+      \strng{authorbibnamehash}{a623b168b6bffae2f19f096d310a72b2}
+      \strng{authornamehash}{a623b168b6bffae2f19f096d310a72b2}
+      \strng{authorfullhash}{a623b168b6bffae2f19f096d310a72b2}
+      \strng{authorfullhashraw}{a623b168b6bffae2f19f096d310a72b2}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0470824948}
+      \field{title}{The Holy Grail of Macroeconomics: Lessons from Japans Great Recession}
+      \field{year}{2009}
+      \true{nocite}
+    \endentry
+    \entry{Krugman:1996}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=1dc32e0388d1f3dd99440cc8a5c3333b}{%
+           family={Krugman},
+           familyi={K\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The MIT Press}%
+      }
+      \strng{namehash}{1dc32e0388d1f3dd99440cc8a5c3333b}
+      \strng{fullhash}{1dc32e0388d1f3dd99440cc8a5c3333b}
+      \strng{fullhashraw}{1dc32e0388d1f3dd99440cc8a5c3333b}
+      \strng{bibnamehash}{1dc32e0388d1f3dd99440cc8a5c3333b}
+      \strng{authorbibnamehash}{1dc32e0388d1f3dd99440cc8a5c3333b}
+      \strng{authornamehash}{1dc32e0388d1f3dd99440cc8a5c3333b}
+      \strng{authorfullhash}{1dc32e0388d1f3dd99440cc8a5c3333b}
+      \strng{authorfullhashraw}{1dc32e0388d1f3dd99440cc8a5c3333b}
+      \field{extraname}{1}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0262112108}
+      \field{title}{Pop Internationalism}
+      \field{year}{1996}
+      \true{nocite}
+    \endentry
+    \entry{Krugman:1998}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=1dc32e0388d1f3dd99440cc8a5c3333b}{%
+           family={Krugman},
+           familyi={K\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {W.W. Norton \& Company}%
+      }
+      \strng{namehash}{1dc32e0388d1f3dd99440cc8a5c3333b}
+      \strng{fullhash}{1dc32e0388d1f3dd99440cc8a5c3333b}
+      \strng{fullhashraw}{1dc32e0388d1f3dd99440cc8a5c3333b}
+      \strng{bibnamehash}{1dc32e0388d1f3dd99440cc8a5c3333b}
+      \strng{authorbibnamehash}{1dc32e0388d1f3dd99440cc8a5c3333b}
+      \strng{authornamehash}{1dc32e0388d1f3dd99440cc8a5c3333b}
+      \strng{authorfullhash}{1dc32e0388d1f3dd99440cc8a5c3333b}
+      \strng{authorfullhashraw}{1dc32e0388d1f3dd99440cc8a5c3333b}
+      \field{extraname}{2}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0393046389}
+      \field{title}{The Accidental Theorist: And Other Dispatches from the Dismal Science}
+      \field{year}{1998}
+      \true{nocite}
+    \endentry
+    \entry{Krugman:2008}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=1dc32e0388d1f3dd99440cc8a5c3333b}{%
+           family={Krugman},
+           familyi={K\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {W.W. Norton \& Company}%
+      }
+      \strng{namehash}{1dc32e0388d1f3dd99440cc8a5c3333b}
+      \strng{fullhash}{1dc32e0388d1f3dd99440cc8a5c3333b}
+      \strng{fullhashraw}{1dc32e0388d1f3dd99440cc8a5c3333b}
+      \strng{bibnamehash}{1dc32e0388d1f3dd99440cc8a5c3333b}
+      \strng{authorbibnamehash}{1dc32e0388d1f3dd99440cc8a5c3333b}
+      \strng{authornamehash}{1dc32e0388d1f3dd99440cc8a5c3333b}
+      \strng{authorfullhash}{1dc32e0388d1f3dd99440cc8a5c3333b}
+      \strng{authorfullhashraw}{1dc32e0388d1f3dd99440cc8a5c3333b}
+      \field{extraname}{3}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0393071014}
+      \field{title}{The Return of Depression Economics and the Crisis of 2008}
+      \field{year}{2008}
+      \true{nocite}
+    \endentry
+    \entry{Landes:1998}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=9c821755b477a8fc36f309289add110c}{%
+           family={Landes},
+           familyi={L\bibinitperiod},
+           given={David\bibnamedelima S.},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {W.W. Norton \& Company}%
+      }
+      \strng{namehash}{9c821755b477a8fc36f309289add110c}
+      \strng{fullhash}{9c821755b477a8fc36f309289add110c}
+      \strng{fullhashraw}{9c821755b477a8fc36f309289add110c}
+      \strng{bibnamehash}{9c821755b477a8fc36f309289add110c}
+      \strng{authorbibnamehash}{9c821755b477a8fc36f309289add110c}
+      \strng{authornamehash}{9c821755b477a8fc36f309289add110c}
+      \strng{authorfullhash}{9c821755b477a8fc36f309289add110c}
+      \strng{authorfullhashraw}{9c821755b477a8fc36f309289add110c}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0393318885}
+      \field{title}{The Wealth and Poverty of Nations: Why Some Are So Rich and Some So Poor}
+      \field{year}{1998}
+      \true{nocite}
+    \endentry
+    \entry{Landsburg:1993}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=f07c9a598cece52f0c8b84b45f0a1b1e}{%
+           family={Landsburg},
+           familyi={L\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The Free Press}%
+      }
+      \strng{namehash}{f07c9a598cece52f0c8b84b45f0a1b1e}
+      \strng{fullhash}{f07c9a598cece52f0c8b84b45f0a1b1e}
+      \strng{fullhashraw}{f07c9a598cece52f0c8b84b45f0a1b1e}
+      \strng{bibnamehash}{f07c9a598cece52f0c8b84b45f0a1b1e}
+      \strng{authorbibnamehash}{f07c9a598cece52f0c8b84b45f0a1b1e}
+      \strng{authornamehash}{f07c9a598cece52f0c8b84b45f0a1b1e}
+      \strng{authorfullhash}{f07c9a598cece52f0c8b84b45f0a1b1e}
+      \strng{authorfullhashraw}{f07c9a598cece52f0c8b84b45f0a1b1e}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0029177766}
+      \field{title}{The Armchair Economist: Economics and Everyday Life}
+      \field{year}{1993}
+      \true{nocite}
+    \endentry
+    \entry{Levitt:Dubner:2005}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=bdc899291c3f95423410d258dc53054c}{%
+           family={Levitt},
+           familyi={L\bibinitperiod},
+           given={Steven\bibnamedelima D.},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=ddb81cf8596d54f3b8c4f90a12cd1a8d}{%
+           family={Dubner},
+           familyi={D\bibinitperiod},
+           given={Stephen\bibnamedelima J.},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {William Morrow}%
+      }
+      \strng{namehash}{363dee8e3441b159f598846b6712cfa1}
+      \strng{fullhash}{363dee8e3441b159f598846b6712cfa1}
+      \strng{fullhashraw}{363dee8e3441b159f598846b6712cfa1}
+      \strng{bibnamehash}{363dee8e3441b159f598846b6712cfa1}
+      \strng{authorbibnamehash}{363dee8e3441b159f598846b6712cfa1}
+      \strng{authornamehash}{363dee8e3441b159f598846b6712cfa1}
+      \strng{authorfullhash}{363dee8e3441b159f598846b6712cfa1}
+      \strng{authorfullhashraw}{363dee8e3441b159f598846b6712cfa1}
+      \field{extraname}{1}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0713998067}
+      \field{title}{Freakonomics : A Rogue Economist Explores the Hidden Side of Everything}
+      \field{year}{2005}
+      \true{nocite}
+    \endentry
+    \entry{Levitt:Dubner:2009}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=bdc899291c3f95423410d258dc53054c}{%
+           family={Levitt},
+           familyi={L\bibinitperiod},
+           given={Steven\bibnamedelima D.},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=ddb81cf8596d54f3b8c4f90a12cd1a8d}{%
+           family={Dubner},
+           familyi={D\bibinitperiod},
+           given={Stephen\bibnamedelima J.},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {William Morrow}%
+      }
+      \strng{namehash}{363dee8e3441b159f598846b6712cfa1}
+      \strng{fullhash}{363dee8e3441b159f598846b6712cfa1}
+      \strng{fullhashraw}{363dee8e3441b159f598846b6712cfa1}
+      \strng{bibnamehash}{363dee8e3441b159f598846b6712cfa1}
+      \strng{authorbibnamehash}{363dee8e3441b159f598846b6712cfa1}
+      \strng{authornamehash}{363dee8e3441b159f598846b6712cfa1}
+      \strng{authorfullhash}{363dee8e3441b159f598846b6712cfa1}
+      \strng{authorfullhashraw}{363dee8e3441b159f598846b6712cfa1}
+      \field{extraname}{2}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780060889579}
+      \field{title}{SuperFreakonomics: Global Cooling, Patriotic Prostitutes And Why Suicide Bombers Should Buy Life Insurance}
+      \field{year}{2005}
+      \true{nocite}
+    \endentry
+    \entry{Lewis:2010}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=8738a105b120999db84493f32e57378d}{%
+           family={Lewis},
+           familyi={L\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {W. W. Norton \& Company}%
+      }
+      \strng{namehash}{8738a105b120999db84493f32e57378d}
+      \strng{fullhash}{8738a105b120999db84493f32e57378d}
+      \strng{fullhashraw}{8738a105b120999db84493f32e57378d}
+      \strng{bibnamehash}{8738a105b120999db84493f32e57378d}
+      \strng{authorbibnamehash}{8738a105b120999db84493f32e57378d}
+      \strng{authornamehash}{8738a105b120999db84493f32e57378d}
+      \strng{authorfullhash}{8738a105b120999db84493f32e57378d}
+      \strng{authorfullhashraw}{8738a105b120999db84493f32e57378d}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{039333869X}
+      \field{title}{Liar's Poker}
+      \field{year}{2010}
+      \true{nocite}
+    \endentry
+    \entry{Lowenstein:2000}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=504d3b06c669cbca9ffef5b19c17877c}{%
+           family={Lowenstein},
+           familyi={L\bibinitperiod},
+           given={Roger},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Random House}%
+      }
+      \strng{namehash}{504d3b06c669cbca9ffef5b19c17877c}
+      \strng{fullhash}{504d3b06c669cbca9ffef5b19c17877c}
+      \strng{fullhashraw}{504d3b06c669cbca9ffef5b19c17877c}
+      \strng{bibnamehash}{504d3b06c669cbca9ffef5b19c17877c}
+      \strng{authorbibnamehash}{504d3b06c669cbca9ffef5b19c17877c}
+      \strng{authornamehash}{504d3b06c669cbca9ffef5b19c17877c}
+      \strng{authorfullhash}{504d3b06c669cbca9ffef5b19c17877c}
+      \strng{authorfullhashraw}{504d3b06c669cbca9ffef5b19c17877c}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780375758256}
+      \field{title}{When Genius Failed: The Rise and Fall of Long-Term Capital Management}
+      \field{year}{2000}
+      \true{nocite}
+    \endentry
+    \entry{McDonald:Robinson:2009}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=9186af48c8d28648de2534a81182f93d}{%
+           family={McDonald},
+           familyi={M\bibinitperiod},
+           given={Lawrence\bibnamedelima G.},
+           giveni={L\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=803d26b210c1735d1dfa93b3e09d8c5c}{%
+           family={Robinson},
+           familyi={R\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Crown Business}%
+      }
+      \strng{namehash}{0b2a253439040a4a9157b7150cd88a2d}
+      \strng{fullhash}{0b2a253439040a4a9157b7150cd88a2d}
+      \strng{fullhashraw}{0b2a253439040a4a9157b7150cd88a2d}
+      \strng{bibnamehash}{0b2a253439040a4a9157b7150cd88a2d}
+      \strng{authorbibnamehash}{0b2a253439040a4a9157b7150cd88a2d}
+      \strng{authornamehash}{0b2a253439040a4a9157b7150cd88a2d}
+      \strng{authorfullhash}{0b2a253439040a4a9157b7150cd88a2d}
+      \strng{authorfullhashraw}{0b2a253439040a4a9157b7150cd88a2d}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780307588333}
+      \field{title}{A Colossal Failure of Common Sense: The Inside Story of the Collapse of Lehman Brothers}
+      \field{year}{2009}
+      \true{nocite}
+    \endentry
+    \entry{Mian:Sufi:2014}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=56836bc58f70488000e8ecb3a6725213}{%
+           family={Mian},
+           familyi={M\bibinitperiod},
+           given={Atif},
+           giveni={A\bibinitperiod}}}%
+        {{hash=115809cbb4152ece23ddb8bd5a0c6fb2}{%
+           family={Sufi},
+           familyi={S\bibinitperiod},
+           given={Amir},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {University Of Chicago Press}%
+      }
+      \strng{namehash}{9ea14e828d531d51eb2c223bb856d369}
+      \strng{fullhash}{9ea14e828d531d51eb2c223bb856d369}
+      \strng{fullhashraw}{9ea14e828d531d51eb2c223bb856d369}
+      \strng{bibnamehash}{9ea14e828d531d51eb2c223bb856d369}
+      \strng{authorbibnamehash}{9ea14e828d531d51eb2c223bb856d369}
+      \strng{authornamehash}{9ea14e828d531d51eb2c223bb856d369}
+      \strng{authorfullhash}{9ea14e828d531d51eb2c223bb856d369}
+      \strng{authorfullhashraw}{9ea14e828d531d51eb2c223bb856d369}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{022627165X}
+      \field{title}{House of Debt: How They (and You) Caused the Great Recession, and How We Can Prevent It from Happening Again}
+      \field{year}{2014}
+      \true{nocite}
+    \endentry
+    \entry{Mises:1949}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=0e4f161575dfdb0744efa710344f6c94}{%
+           family={Mises},
+           familyi={M\bibinitperiod},
+           given={Ludwig},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Yale University Press}%
+      }
+      \strng{namehash}{0e4f161575dfdb0744efa710344f6c94}
+      \strng{fullhash}{0e4f161575dfdb0744efa710344f6c94}
+      \strng{fullhashraw}{0e4f161575dfdb0744efa710344f6c94}
+      \strng{bibnamehash}{0e4f161575dfdb0744efa710344f6c94}
+      \strng{authorbibnamehash}{0e4f161575dfdb0744efa710344f6c94}
+      \strng{authornamehash}{0e4f161575dfdb0744efa710344f6c94}
+      \strng{authorfullhash}{0e4f161575dfdb0744efa710344f6c94}
+      \strng{authorfullhashraw}{0e4f161575dfdb0744efa710344f6c94}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Human Action: A Treatise on Economics}
+      \field{year}{1949}
+      \true{nocite}
+    \endentry
+    \entry{Olson:1982}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=df106a52ba6207f8c20a6138f9025954}{%
+           family={Olson},
+           familyi={O\bibinitperiod},
+           given={Mancur},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Yale University Press}%
+      }
+      \strng{namehash}{df106a52ba6207f8c20a6138f9025954}
+      \strng{fullhash}{df106a52ba6207f8c20a6138f9025954}
+      \strng{fullhashraw}{df106a52ba6207f8c20a6138f9025954}
+      \strng{bibnamehash}{df106a52ba6207f8c20a6138f9025954}
+      \strng{authorbibnamehash}{df106a52ba6207f8c20a6138f9025954}
+      \strng{authornamehash}{df106a52ba6207f8c20a6138f9025954}
+      \strng{authorfullhash}{df106a52ba6207f8c20a6138f9025954}
+      \strng{authorfullhashraw}{df106a52ba6207f8c20a6138f9025954}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Rise and Decline of Nations: Economic Growth, Stagflation, and Social Rigidities}
+      \field{year}{1982}
+      \true{nocite}
+    \endentry
+    \entry{Piketty:2020:Ideology}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=125a3a980ec7ff459f2e77e8e82118b6}{%
+           family={Piketty},
+           familyi={P\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Belknap Press}%
+      }
+      \strng{namehash}{125a3a980ec7ff459f2e77e8e82118b6}
+      \strng{fullhash}{125a3a980ec7ff459f2e77e8e82118b6}
+      \strng{fullhashraw}{125a3a980ec7ff459f2e77e8e82118b6}
+      \strng{bibnamehash}{125a3a980ec7ff459f2e77e8e82118b6}
+      \strng{authorbibnamehash}{125a3a980ec7ff459f2e77e8e82118b6}
+      \strng{authornamehash}{125a3a980ec7ff459f2e77e8e82118b6}
+      \strng{authorfullhash}{125a3a980ec7ff459f2e77e8e82118b6}
+      \strng{authorfullhashraw}{125a3a980ec7ff459f2e77e8e82118b6}
+      \field{extraname}{1}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780674245099}
+      \field{title}{Capital and Ideology}
+      \field{year}{2020}
+      \true{nocite}
+    \endentry
+    \entry{Piketty:2014:Capital21c}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=125a3a980ec7ff459f2e77e8e82118b6}{%
+           family={Piketty},
+           familyi={P\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Belknap Press}%
+      }
+      \strng{namehash}{125a3a980ec7ff459f2e77e8e82118b6}
+      \strng{fullhash}{125a3a980ec7ff459f2e77e8e82118b6}
+      \strng{fullhashraw}{125a3a980ec7ff459f2e77e8e82118b6}
+      \strng{bibnamehash}{125a3a980ec7ff459f2e77e8e82118b6}
+      \strng{authorbibnamehash}{125a3a980ec7ff459f2e77e8e82118b6}
+      \strng{authornamehash}{125a3a980ec7ff459f2e77e8e82118b6}
+      \strng{authorfullhash}{125a3a980ec7ff459f2e77e8e82118b6}
+      \strng{authorfullhashraw}{125a3a980ec7ff459f2e77e8e82118b6}
+      \field{extraname}{2}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780674369542}
+      \field{title}{Capital in the Twenty-First Century}
+      \field{year}{2014}
+      \true{nocite}
+    \endentry
+    \entry{Rajan:2010}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=2c092288bae492a3e95fee8008853224}{%
+           family={Rajan},
+           familyi={R\bibinitperiod},
+           given={Raghuram\bibnamedelima G.},
+           giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Princeton University Press}%
+      }
+      \strng{namehash}{2c092288bae492a3e95fee8008853224}
+      \strng{fullhash}{2c092288bae492a3e95fee8008853224}
+      \strng{fullhashraw}{2c092288bae492a3e95fee8008853224}
+      \strng{bibnamehash}{2c092288bae492a3e95fee8008853224}
+      \strng{authorbibnamehash}{2c092288bae492a3e95fee8008853224}
+      \strng{authornamehash}{2c092288bae492a3e95fee8008853224}
+      \strng{authorfullhash}{2c092288bae492a3e95fee8008853224}
+      \strng{authorfullhashraw}{2c092288bae492a3e95fee8008853224}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0691146837}
+      \field{title}{Fault Lines: How Hidden Fractures Still Threaten the World Economy}
+      \field{year}{2010}
+      \true{nocite}
+    \endentry
+    \entry{Rawls:1971}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=789e307f6a6f6a453ff0ca10f85cea17}{%
+           family={Rawls},
+           familyi={R\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Belknap}%
+      }
+      \strng{namehash}{789e307f6a6f6a453ff0ca10f85cea17}
+      \strng{fullhash}{789e307f6a6f6a453ff0ca10f85cea17}
+      \strng{fullhashraw}{789e307f6a6f6a453ff0ca10f85cea17}
+      \strng{bibnamehash}{789e307f6a6f6a453ff0ca10f85cea17}
+      \strng{authorbibnamehash}{789e307f6a6f6a453ff0ca10f85cea17}
+      \strng{authornamehash}{789e307f6a6f6a453ff0ca10f85cea17}
+      \strng{authorfullhash}{789e307f6a6f6a453ff0ca10f85cea17}
+      \strng{authorfullhashraw}{789e307f6a6f6a453ff0ca10f85cea17}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0674000781}
+      \field{title}{A Theory of Justice}
+      \field{year}{1971}
+      \true{nocite}
+    \endentry
+    \entry{Reinhart:Rogoff:2009}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=7e5a248b2b57e8a01faa0b08bd59eecf}{%
+           family={Reinhart},
+           familyi={R\bibinitperiod},
+           given={Carmen\bibnamedelima M.},
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=dfacefa9dbd5b7bedeeb1764cc5fd084}{%
+           family={Rogoff},
+           familyi={R\bibinitperiod},
+           given={Kenneth},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Princeton University Press}%
+      }
+      \strng{namehash}{9ab6d4cb4f1561ad2068d8031fe20b77}
+      \strng{fullhash}{9ab6d4cb4f1561ad2068d8031fe20b77}
+      \strng{fullhashraw}{9ab6d4cb4f1561ad2068d8031fe20b77}
+      \strng{bibnamehash}{9ab6d4cb4f1561ad2068d8031fe20b77}
+      \strng{authorbibnamehash}{9ab6d4cb4f1561ad2068d8031fe20b77}
+      \strng{authornamehash}{9ab6d4cb4f1561ad2068d8031fe20b77}
+      \strng{authorfullhash}{9ab6d4cb4f1561ad2068d8031fe20b77}
+      \strng{authorfullhashraw}{9ab6d4cb4f1561ad2068d8031fe20b77}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0691142165}
+      \field{title}{This Time is Different: Eight Centuries of Financial Folly}
+      \field{year}{2009}
+      \true{nocite}
+    \endentry
+    \entry{Ritholtz:2009}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=4bd0aad2d42ea745c723d7486f3a4b81}{%
+           family={Ritholtz},
+           familyi={R\bibinitperiod},
+           given={Barry},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{4bd0aad2d42ea745c723d7486f3a4b81}
+      \strng{fullhash}{4bd0aad2d42ea745c723d7486f3a4b81}
+      \strng{fullhashraw}{4bd0aad2d42ea745c723d7486f3a4b81}
+      \strng{bibnamehash}{4bd0aad2d42ea745c723d7486f3a4b81}
+      \strng{authorbibnamehash}{4bd0aad2d42ea745c723d7486f3a4b81}
+      \strng{authornamehash}{4bd0aad2d42ea745c723d7486f3a4b81}
+      \strng{authorfullhash}{4bd0aad2d42ea745c723d7486f3a4b81}
+      \strng{authorfullhashraw}{4bd0aad2d42ea745c723d7486f3a4b81}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0470520388}
+      \field{title}{Bailout Nation: How Greed and Easy Money Corrupted Wall Street and Shook the World Economy}
+      \field{year}{2009}
+      \true{nocite}
+    \endentry
+    \entry{Roberts:2008}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=36eb4b265dcb1ebd911074e109f29878}{%
+           family={Roberts},
+           familyi={R\bibinitperiod},
+           given={Russell},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Princeton University Press}%
+      }
+      \strng{namehash}{36eb4b265dcb1ebd911074e109f29878}
+      \strng{fullhash}{36eb4b265dcb1ebd911074e109f29878}
+      \strng{fullhashraw}{36eb4b265dcb1ebd911074e109f29878}
+      \strng{bibnamehash}{36eb4b265dcb1ebd911074e109f29878}
+      \strng{authorbibnamehash}{36eb4b265dcb1ebd911074e109f29878}
+      \strng{authornamehash}{36eb4b265dcb1ebd911074e109f29878}
+      \strng{authorfullhash}{36eb4b265dcb1ebd911074e109f29878}
+      \strng{authorfullhashraw}{36eb4b265dcb1ebd911074e109f29878}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Price of Everything: A Parable of Possibility and Prosperity}
+      \field{year}{2008}
+      \true{nocite}
+    \endentry
+    \entry{Rodrik:2007}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=838c73523715fb8fdf83d1d7a57cc6bd}{%
+           family={Rodrik},
+           familyi={R\bibinitperiod},
+           given={Dani},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Princeton University Press}%
+      }
+      \strng{namehash}{838c73523715fb8fdf83d1d7a57cc6bd}
+      \strng{fullhash}{838c73523715fb8fdf83d1d7a57cc6bd}
+      \strng{fullhashraw}{838c73523715fb8fdf83d1d7a57cc6bd}
+      \strng{bibnamehash}{838c73523715fb8fdf83d1d7a57cc6bd}
+      \strng{authorbibnamehash}{838c73523715fb8fdf83d1d7a57cc6bd}
+      \strng{authornamehash}{838c73523715fb8fdf83d1d7a57cc6bd}
+      \strng{authorfullhash}{838c73523715fb8fdf83d1d7a57cc6bd}
+      \strng{authorfullhashraw}{838c73523715fb8fdf83d1d7a57cc6bd}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0691129517}
+      \field{title}{One Economics, Many Recipes: Globalization, Institutions, and Economic Growth}
+      \field{year}{2007}
+      \true{nocite}
+    \endentry
+    \entry{Rogoff:2025}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=dfacefa9dbd5b7bedeeb1764cc5fd084}{%
+           family={Rogoff},
+           familyi={R\bibinitperiod},
+           given={Kenneth},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Yale University Press}%
+      }
+      \strng{namehash}{dfacefa9dbd5b7bedeeb1764cc5fd084}
+      \strng{fullhash}{dfacefa9dbd5b7bedeeb1764cc5fd084}
+      \strng{fullhashraw}{dfacefa9dbd5b7bedeeb1764cc5fd084}
+      \strng{bibnamehash}{dfacefa9dbd5b7bedeeb1764cc5fd084}
+      \strng{authorbibnamehash}{dfacefa9dbd5b7bedeeb1764cc5fd084}
+      \strng{authornamehash}{dfacefa9dbd5b7bedeeb1764cc5fd084}
+      \strng{authorfullhash}{dfacefa9dbd5b7bedeeb1764cc5fd084}
+      \strng{authorfullhashraw}{dfacefa9dbd5b7bedeeb1764cc5fd084}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780300283716}
+      \field{title}{Our Dollar, Your Problem: An Insider's View of Seven Turbulent Decades of Global Finance, and the Road Ahead}
+      \field{year}{2025}
+      \true{nocite}
+    \endentry
+    \entry{Roubini:Mihm:2010}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=d7c09c03ff5c303705f248e61a4df17f}{%
+           family={Roubini},
+           familyi={R\bibinitperiod},
+           given={Nouriel},
+           giveni={N\bibinitperiod}}}%
+        {{hash=f702e555fa2c69be0853485112a85515}{%
+           family={Mihm},
+           familyi={M\bibinitperiod},
+           given={Stephen},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Allen Lane}%
+      }
+      \strng{namehash}{a51b6a473793dcf814ae8adb24677173}
+      \strng{fullhash}{a51b6a473793dcf814ae8adb24677173}
+      \strng{fullhashraw}{a51b6a473793dcf814ae8adb24677173}
+      \strng{bibnamehash}{a51b6a473793dcf814ae8adb24677173}
+      \strng{authorbibnamehash}{a51b6a473793dcf814ae8adb24677173}
+      \strng{authornamehash}{a51b6a473793dcf814ae8adb24677173}
+      \strng{authorfullhash}{a51b6a473793dcf814ae8adb24677173}
+      \strng{authorfullhashraw}{a51b6a473793dcf814ae8adb24677173}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780143119630}
+      \field{title}{Crisis Economics: A Crash Course in the Future of Finance}
+      \field{year}{2010}
+      \true{nocite}
+    \endentry
+    \entry{Sachs:2008}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=c3e84c454d7f7b1cadba6439541359da}{%
+           family={Sachs},
+           familyi={S\bibinitperiod},
+           given={Jeffrey},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Penguin Press}%
+      }
+      \strng{namehash}{c3e84c454d7f7b1cadba6439541359da}
+      \strng{fullhash}{c3e84c454d7f7b1cadba6439541359da}
+      \strng{fullhashraw}{c3e84c454d7f7b1cadba6439541359da}
+      \strng{bibnamehash}{c3e84c454d7f7b1cadba6439541359da}
+      \strng{authorbibnamehash}{c3e84c454d7f7b1cadba6439541359da}
+      \strng{authornamehash}{c3e84c454d7f7b1cadba6439541359da}
+      \strng{authorfullhash}{c3e84c454d7f7b1cadba6439541359da}
+      \strng{authorfullhashraw}{c3e84c454d7f7b1cadba6439541359da}
+      \field{extraname}{1}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781594201271}
+      \field{title}{Common Wealth: Economics for a Crowded Planet}
+      \field{year}{2008}
+      \true{nocite}
+    \endentry
+    \entry{Sachs:2005}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=c3e84c454d7f7b1cadba6439541359da}{%
+           family={Sachs},
+           familyi={S\bibinitperiod},
+           given={Jeffrey},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Penguin Books}%
+      }
+      \strng{namehash}{c3e84c454d7f7b1cadba6439541359da}
+      \strng{fullhash}{c3e84c454d7f7b1cadba6439541359da}
+      \strng{fullhashraw}{c3e84c454d7f7b1cadba6439541359da}
+      \strng{bibnamehash}{c3e84c454d7f7b1cadba6439541359da}
+      \strng{authorbibnamehash}{c3e84c454d7f7b1cadba6439541359da}
+      \strng{authornamehash}{c3e84c454d7f7b1cadba6439541359da}
+      \strng{authorfullhash}{c3e84c454d7f7b1cadba6439541359da}
+      \strng{authorfullhashraw}{c3e84c454d7f7b1cadba6439541359da}
+      \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0141018666}
+      \field{title}{The End of Poverty; How we can make it happen in our lifetime}
+      \field{year}{2005}
+      \true{nocite}
+    \endentry
+    \entry{Saez:Zucman:2019}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=f040f5aac2c176810fed8b44b9c401a4}{%
+           family={Saez},
+           familyi={S\bibinitperiod},
+           given={Emmanuel},
+           giveni={E\bibinitperiod}}}%
+        {{hash=3b966b131eabccf3c6ecbdb6fe527f0c}{%
+           family={Zucman},
+           familyi={Z\bibinitperiod},
+           given={Gabriel},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {W.W. Norton \& Company}%
+      }
+      \strng{namehash}{f219ec8fb411b4220cf8e9112cea77ef}
+      \strng{fullhash}{f219ec8fb411b4220cf8e9112cea77ef}
+      \strng{fullhashraw}{f219ec8fb411b4220cf8e9112cea77ef}
+      \strng{bibnamehash}{f219ec8fb411b4220cf8e9112cea77ef}
+      \strng{authorbibnamehash}{f219ec8fb411b4220cf8e9112cea77ef}
+      \strng{authornamehash}{f219ec8fb411b4220cf8e9112cea77ef}
+      \strng{authorfullhash}{f219ec8fb411b4220cf8e9112cea77ef}
+      \strng{authorfullhashraw}{f219ec8fb411b4220cf8e9112cea77ef}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781324002727}
+      \field{title}{The Triumph of Injustice: How the Rich Dodge Taxes and How to Make Them Pay}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{Schelling:1978}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=437acf28afb8c05b38d6de93b43ff96f}{%
+           family={Schelling},
+           familyi={S\bibinitperiod},
+           given={Thomas\bibnamedelima C.},
+           giveni={T\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {W.W. Norton \& Company}%
+      }
+      \strng{namehash}{437acf28afb8c05b38d6de93b43ff96f}
+      \strng{fullhash}{437acf28afb8c05b38d6de93b43ff96f}
+      \strng{fullhashraw}{437acf28afb8c05b38d6de93b43ff96f}
+      \strng{bibnamehash}{437acf28afb8c05b38d6de93b43ff96f}
+      \strng{authorbibnamehash}{437acf28afb8c05b38d6de93b43ff96f}
+      \strng{authornamehash}{437acf28afb8c05b38d6de93b43ff96f}
+      \strng{authorfullhash}{437acf28afb8c05b38d6de93b43ff96f}
+      \strng{authorfullhashraw}{437acf28afb8c05b38d6de93b43ff96f}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0393329461}
+      \field{title}{Micromotives and Macrobehavior}
+      \field{year}{1978}
+      \true{nocite}
+    \endentry
+    \entry{Sen:1999}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=18688d43042a810cb6ae6bb19c167f1b}{%
+           family={Sen},
+           familyi={S\bibinitperiod},
+           given={Amartya},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Knopf}%
+      }
+      \strng{namehash}{18688d43042a810cb6ae6bb19c167f1b}
+      \strng{fullhash}{18688d43042a810cb6ae6bb19c167f1b}
+      \strng{fullhashraw}{18688d43042a810cb6ae6bb19c167f1b}
+      \strng{bibnamehash}{18688d43042a810cb6ae6bb19c167f1b}
+      \strng{authorbibnamehash}{18688d43042a810cb6ae6bb19c167f1b}
+      \strng{authornamehash}{18688d43042a810cb6ae6bb19c167f1b}
+      \strng{authorfullhash}{18688d43042a810cb6ae6bb19c167f1b}
+      \strng{authorfullhashraw}{18688d43042a810cb6ae6bb19c167f1b}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0375406190}
+      \field{title}{Development as Freedom}
+      \field{year}{1999}
+      \true{nocite}
+    \endentry
+    \entry{Sethi:2019}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=9866c6949e57bf64090da6d81c8ff514}{%
+           family={Sethi},
+           familyi={S\bibinitperiod},
+           given={Ramit},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Workman Publishing Company}%
+      }
+      \strng{namehash}{9866c6949e57bf64090da6d81c8ff514}
+      \strng{fullhash}{9866c6949e57bf64090da6d81c8ff514}
+      \strng{fullhashraw}{9866c6949e57bf64090da6d81c8ff514}
+      \strng{bibnamehash}{9866c6949e57bf64090da6d81c8ff514}
+      \strng{authorbibnamehash}{9866c6949e57bf64090da6d81c8ff514}
+      \strng{authornamehash}{9866c6949e57bf64090da6d81c8ff514}
+      \strng{authorfullhash}{9866c6949e57bf64090da6d81c8ff514}
+      \strng{authorfullhashraw}{9866c6949e57bf64090da6d81c8ff514}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{1523505745}
+      \field{title}{I Will Teach You to Be Rich: No Guilt. No Excuses. Just a 6-Week Program That Works}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{Shiller:2012}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=9d82a77d715bb25ddd61e8456f95a4f4}{%
+           family={Shiller},
+           familyi={S\bibinitperiod},
+           given={Robert\bibnamedelima J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Princeton University Press}%
+      }
+      \strng{namehash}{9d82a77d715bb25ddd61e8456f95a4f4}
+      \strng{fullhash}{9d82a77d715bb25ddd61e8456f95a4f4}
+      \strng{fullhashraw}{9d82a77d715bb25ddd61e8456f95a4f4}
+      \strng{bibnamehash}{9d82a77d715bb25ddd61e8456f95a4f4}
+      \strng{authorbibnamehash}{9d82a77d715bb25ddd61e8456f95a4f4}
+      \strng{authornamehash}{9d82a77d715bb25ddd61e8456f95a4f4}
+      \strng{authorfullhash}{9d82a77d715bb25ddd61e8456f95a4f4}
+      \strng{authorfullhashraw}{9d82a77d715bb25ddd61e8456f95a4f4}
+      \field{extraname}{1}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0691154880}
+      \field{title}{Finance and the Good Society}
+      \field{year}{2012}
+      \true{nocite}
+    \endentry
+    \entry{Shiller:2000}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=9d82a77d715bb25ddd61e8456f95a4f4}{%
+           family={Shiller},
+           familyi={S\bibinitperiod},
+           given={Robert\bibnamedelima J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Princeton University Press}%
+      }
+      \strng{namehash}{9d82a77d715bb25ddd61e8456f95a4f4}
+      \strng{fullhash}{9d82a77d715bb25ddd61e8456f95a4f4}
+      \strng{fullhashraw}{9d82a77d715bb25ddd61e8456f95a4f4}
+      \strng{bibnamehash}{9d82a77d715bb25ddd61e8456f95a4f4}
+      \strng{authorbibnamehash}{9d82a77d715bb25ddd61e8456f95a4f4}
+      \strng{authornamehash}{9d82a77d715bb25ddd61e8456f95a4f4}
+      \strng{authorfullhash}{9d82a77d715bb25ddd61e8456f95a4f4}
+      \strng{authorfullhashraw}{9d82a77d715bb25ddd61e8456f95a4f4}
+      \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0691050627}
+      \field{title}{Irrational Exuberance}
+      \field{year}{2000}
+      \true{nocite}
+    \endentry
+    \entry{Shiller:2003}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=9d82a77d715bb25ddd61e8456f95a4f4}{%
+           family={Shiller},
+           familyi={S\bibinitperiod},
+           given={Robert\bibnamedelima J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Princeton University Press}%
+      }
+      \strng{namehash}{9d82a77d715bb25ddd61e8456f95a4f4}
+      \strng{fullhash}{9d82a77d715bb25ddd61e8456f95a4f4}
+      \strng{fullhashraw}{9d82a77d715bb25ddd61e8456f95a4f4}
+      \strng{bibnamehash}{9d82a77d715bb25ddd61e8456f95a4f4}
+      \strng{authorbibnamehash}{9d82a77d715bb25ddd61e8456f95a4f4}
+      \strng{authornamehash}{9d82a77d715bb25ddd61e8456f95a4f4}
+      \strng{authorfullhash}{9d82a77d715bb25ddd61e8456f95a4f4}
+      \strng{authorfullhashraw}{9d82a77d715bb25ddd61e8456f95a4f4}
+      \field{extraname}{3}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0691091722}
+      \field{title}{The New Financial Order: Risk in the 21st Century}
+      \field{year}{2003}
+      \true{nocite}
+    \endentry
+    \entry{Shiller:2008}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=9d82a77d715bb25ddd61e8456f95a4f4}{%
+           family={Shiller},
+           familyi={S\bibinitperiod},
+           given={Robert\bibnamedelima J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Princeton University Press}%
+      }
+      \strng{namehash}{9d82a77d715bb25ddd61e8456f95a4f4}
+      \strng{fullhash}{9d82a77d715bb25ddd61e8456f95a4f4}
+      \strng{fullhashraw}{9d82a77d715bb25ddd61e8456f95a4f4}
+      \strng{bibnamehash}{9d82a77d715bb25ddd61e8456f95a4f4}
+      \strng{authorbibnamehash}{9d82a77d715bb25ddd61e8456f95a4f4}
+      \strng{authornamehash}{9d82a77d715bb25ddd61e8456f95a4f4}
+      \strng{authorfullhash}{9d82a77d715bb25ddd61e8456f95a4f4}
+      \strng{authorfullhashraw}{9d82a77d715bb25ddd61e8456f95a4f4}
+      \field{extraname}{4}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0691139296}
+      \field{title}{The Subprime Solution: How Today's Global Financial Crisis Happened and What To Do About It}
+      \field{year}{2008}
+      \true{nocite}
+    \endentry
+    \entry{Sinn:2010}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=7658ffd6a6790d156cafa53f4ae8c847}{%
+           family={Sinn},
+           familyi={S\bibinitperiod},
+           given={Hans-Werner},
+           giveni={H\bibinithyphendelim W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{7658ffd6a6790d156cafa53f4ae8c847}
+      \strng{fullhash}{7658ffd6a6790d156cafa53f4ae8c847}
+      \strng{fullhashraw}{7658ffd6a6790d156cafa53f4ae8c847}
+      \strng{bibnamehash}{7658ffd6a6790d156cafa53f4ae8c847}
+      \strng{authorbibnamehash}{7658ffd6a6790d156cafa53f4ae8c847}
+      \strng{authornamehash}{7658ffd6a6790d156cafa53f4ae8c847}
+      \strng{authorfullhash}{7658ffd6a6790d156cafa53f4ae8c847}
+      \strng{authorfullhashraw}{7658ffd6a6790d156cafa53f4ae8c847}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0199588279}
+      \field{title}{Casino Capitalism: How the Financial Crisis Came About and What Needs to be Done Now}
+      \field{year}{2010}
+      \true{nocite}
+    \endentry
+    \entry{Smith:1776}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=5ccecf114bbd51a1a2979a23dd69c78c}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Adam},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {W. Strahan}%
+        {T. Cadell, London}%
+      }
+      \strng{namehash}{5ccecf114bbd51a1a2979a23dd69c78c}
+      \strng{fullhash}{5ccecf114bbd51a1a2979a23dd69c78c}
+      \strng{fullhashraw}{5ccecf114bbd51a1a2979a23dd69c78c}
+      \strng{bibnamehash}{5ccecf114bbd51a1a2979a23dd69c78c}
+      \strng{authorbibnamehash}{5ccecf114bbd51a1a2979a23dd69c78c}
+      \strng{authornamehash}{5ccecf114bbd51a1a2979a23dd69c78c}
+      \strng{authorfullhash}{5ccecf114bbd51a1a2979a23dd69c78c}
+      \strng{authorfullhashraw}{5ccecf114bbd51a1a2979a23dd69c78c}
+      \field{extraname}{1}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Wealth Of Nations}
+      \field{year}{1776}
+      \true{nocite}
+    \endentry
+    \entry{Smith:2009}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=5dae92275f3afda5b0b3da88efb93844}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Profile Books}%
+      }
+      \strng{namehash}{5dae92275f3afda5b0b3da88efb93844}
+      \strng{fullhash}{5dae92275f3afda5b0b3da88efb93844}
+      \strng{fullhashraw}{5dae92275f3afda5b0b3da88efb93844}
+      \strng{bibnamehash}{5dae92275f3afda5b0b3da88efb93844}
+      \strng{authorbibnamehash}{5dae92275f3afda5b0b3da88efb93844}
+      \strng{authornamehash}{5dae92275f3afda5b0b3da88efb93844}
+      \strng{authorfullhash}{5dae92275f3afda5b0b3da88efb93844}
+      \strng{authorfullhashraw}{5dae92275f3afda5b0b3da88efb93844}
+      \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{1861975066}
+      \field{title}{Free Lunch: Easily Digestible Economics}
+      \field{year}{2009}
+      \true{nocite}
+    \endentry
+    \entry{Solow:2000}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=2f9c43f5f85accb5d42c19b800a739e6}{%
+           family={Solow},
+           familyi={S\bibinitperiod},
+           given={Robert\bibnamedelima M.},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{2f9c43f5f85accb5d42c19b800a739e6}
+      \strng{fullhash}{2f9c43f5f85accb5d42c19b800a739e6}
+      \strng{fullhashraw}{2f9c43f5f85accb5d42c19b800a739e6}
+      \strng{bibnamehash}{2f9c43f5f85accb5d42c19b800a739e6}
+      \strng{authorbibnamehash}{2f9c43f5f85accb5d42c19b800a739e6}
+      \strng{authornamehash}{2f9c43f5f85accb5d42c19b800a739e6}
+      \strng{authorfullhash}{2f9c43f5f85accb5d42c19b800a739e6}
+      \strng{authorfullhashraw}{2f9c43f5f85accb5d42c19b800a739e6}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0195109031}
+      \field{title}{Growth theory: an Exposition}
+      \field{year}{2000}
+      \true{nocite}
+    \endentry
+    \entry{Sorkin:2009}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=3a3451f02e327aee56c67805b5111f98}{%
+           family={Sorkin},
+           familyi={S\bibinitperiod},
+           given={Andrew\bibnamedelima Ross},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Viking}%
+      }
+      \strng{namehash}{3a3451f02e327aee56c67805b5111f98}
+      \strng{fullhash}{3a3451f02e327aee56c67805b5111f98}
+      \strng{fullhashraw}{3a3451f02e327aee56c67805b5111f98}
+      \strng{bibnamehash}{3a3451f02e327aee56c67805b5111f98}
+      \strng{authorbibnamehash}{3a3451f02e327aee56c67805b5111f98}
+      \strng{authornamehash}{3a3451f02e327aee56c67805b5111f98}
+      \strng{authorfullhash}{3a3451f02e327aee56c67805b5111f98}
+      \strng{authorfullhashraw}{3a3451f02e327aee56c67805b5111f98}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780670021253}
+      \field{title}{Too Big to Fail: The Inside Story of How Wall Street and Washington Fought to Save the Financial System from Crisis --- and Themselves}
+      \field{year}{2009}
+      \true{nocite}
+    \endentry
+    \entry{Soto:2000}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=278360db2dcbae5acc9e208a5b98099a}{%
+           family={Soto},
+           familyi={S\bibinitperiod},
+           given={Hernando},
+           giveni={H\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Basic Books}%
+      }
+      \strng{namehash}{278360db2dcbae5acc9e208a5b98099a}
+      \strng{fullhash}{278360db2dcbae5acc9e208a5b98099a}
+      \strng{fullhashraw}{278360db2dcbae5acc9e208a5b98099a}
+      \strng{bibnamehash}{278360db2dcbae5acc9e208a5b98099a}
+      \strng{authorbibnamehash}{278360db2dcbae5acc9e208a5b98099a}
+      \strng{authornamehash}{278360db2dcbae5acc9e208a5b98099a}
+      \strng{authorfullhash}{278360db2dcbae5acc9e208a5b98099a}
+      \strng{authorfullhashraw}{278360db2dcbae5acc9e208a5b98099a}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0465016154}
+      \field{title}{The Mystery of Capital: Why Capitalism Triumphs in the West and Fails Everywhere Else}
+      \field{year}{2000}
+      \true{nocite}
+    \endentry
+    \entry{Stiglitz:2010}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=cb57f4b2aeede8f5865afde7b8453d40}{%
+           family={Stiglitz},
+           familyi={S\bibinitperiod},
+           given={Joseph\bibnamedelima E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {W.W. Norton \& Company}%
+      }
+      \strng{namehash}{cb57f4b2aeede8f5865afde7b8453d40}
+      \strng{fullhash}{cb57f4b2aeede8f5865afde7b8453d40}
+      \strng{fullhashraw}{cb57f4b2aeede8f5865afde7b8453d40}
+      \strng{bibnamehash}{cb57f4b2aeede8f5865afde7b8453d40}
+      \strng{authorbibnamehash}{cb57f4b2aeede8f5865afde7b8453d40}
+      \strng{authornamehash}{cb57f4b2aeede8f5865afde7b8453d40}
+      \strng{authorfullhash}{cb57f4b2aeede8f5865afde7b8453d40}
+      \strng{authorfullhashraw}{cb57f4b2aeede8f5865afde7b8453d40}
+      \field{extraname}{1}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780393338959}
+      \field{title}{Freefall: America, Free Markets, and the Sinking of the World Economy}
+      \field{year}{2010}
+      \true{nocite}
+    \endentry
+    \entry{Stiglitz:2002}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=cb57f4b2aeede8f5865afde7b8453d40}{%
+           family={Stiglitz},
+           familyi={S\bibinitperiod},
+           given={Joseph\bibnamedelima E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {W.W. Norton \& Company}%
+      }
+      \strng{namehash}{cb57f4b2aeede8f5865afde7b8453d40}
+      \strng{fullhash}{cb57f4b2aeede8f5865afde7b8453d40}
+      \strng{fullhashraw}{cb57f4b2aeede8f5865afde7b8453d40}
+      \strng{bibnamehash}{cb57f4b2aeede8f5865afde7b8453d40}
+      \strng{authorbibnamehash}{cb57f4b2aeede8f5865afde7b8453d40}
+      \strng{authornamehash}{cb57f4b2aeede8f5865afde7b8453d40}
+      \strng{authorfullhash}{cb57f4b2aeede8f5865afde7b8453d40}
+      \strng{authorfullhashraw}{cb57f4b2aeede8f5865afde7b8453d40}
+      \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0393051242}
+      \field{title}{Globalization and Its Discontents}
+      \field{year}{2002}
+      \true{nocite}
+    \endentry
+    \entry{Stiglitz:2006}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=cb57f4b2aeede8f5865afde7b8453d40}{%
+           family={Stiglitz},
+           familyi={S\bibinitperiod},
+           given={Joseph\bibnamedelima E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {W.W. Norton \& Company}%
+      }
+      \strng{namehash}{cb57f4b2aeede8f5865afde7b8453d40}
+      \strng{fullhash}{cb57f4b2aeede8f5865afde7b8453d40}
+      \strng{fullhashraw}{cb57f4b2aeede8f5865afde7b8453d40}
+      \strng{bibnamehash}{cb57f4b2aeede8f5865afde7b8453d40}
+      \strng{authorbibnamehash}{cb57f4b2aeede8f5865afde7b8453d40}
+      \strng{authornamehash}{cb57f4b2aeede8f5865afde7b8453d40}
+      \strng{authorfullhash}{cb57f4b2aeede8f5865afde7b8453d40}
+      \strng{authorfullhashraw}{cb57f4b2aeede8f5865afde7b8453d40}
+      \field{extraname}{3}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0393061221}
+      \field{title}{Making Globalization Work}
+      \field{year}{2006}
+      \true{nocite}
+    \endentry
+    \entry{Stiglitz:2003}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=cb57f4b2aeede8f5865afde7b8453d40}{%
+           family={Stiglitz},
+           familyi={S\bibinitperiod},
+           given={Joseph\bibnamedelima E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {W.W. Norton \& Company}%
+      }
+      \strng{namehash}{cb57f4b2aeede8f5865afde7b8453d40}
+      \strng{fullhash}{cb57f4b2aeede8f5865afde7b8453d40}
+      \strng{fullhashraw}{cb57f4b2aeede8f5865afde7b8453d40}
+      \strng{bibnamehash}{cb57f4b2aeede8f5865afde7b8453d40}
+      \strng{authorbibnamehash}{cb57f4b2aeede8f5865afde7b8453d40}
+      \strng{authornamehash}{cb57f4b2aeede8f5865afde7b8453d40}
+      \strng{authorfullhash}{cb57f4b2aeede8f5865afde7b8453d40}
+      \strng{authorfullhashraw}{cb57f4b2aeede8f5865afde7b8453d40}
+      \field{extraname}{4}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0393326187}
+      \field{title}{The Roaring Nineties: A New History of the World's Most Prosperous Decade}
+      \field{year}{2003}
+      \true{nocite}
+    \endentry
+    \entry{Thaler:2016}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=b968bbcc6d4f6baf47e9fbac4012621e}{%
+           family={Thaler},
+           familyi={T\bibinitperiod},
+           given={Richard\bibnamedelima H.},
+           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {W.W. Norton \& Company}%
+      }
+      \strng{namehash}{b968bbcc6d4f6baf47e9fbac4012621e}
+      \strng{fullhash}{b968bbcc6d4f6baf47e9fbac4012621e}
+      \strng{fullhashraw}{b968bbcc6d4f6baf47e9fbac4012621e}
+      \strng{bibnamehash}{b968bbcc6d4f6baf47e9fbac4012621e}
+      \strng{authorbibnamehash}{b968bbcc6d4f6baf47e9fbac4012621e}
+      \strng{authornamehash}{b968bbcc6d4f6baf47e9fbac4012621e}
+      \strng{authorfullhash}{b968bbcc6d4f6baf47e9fbac4012621e}
+      \strng{authorfullhashraw}{b968bbcc6d4f6baf47e9fbac4012621e}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Misbehaving: The Making of Behavioral Economics}
+      \field{year}{2016}
+      \true{nocite}
+    \endentry
+    \entry{Thaler:Sunstein:2008}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=b968bbcc6d4f6baf47e9fbac4012621e}{%
+           family={Thaler},
+           familyi={T\bibinitperiod},
+           given={Richard\bibnamedelima H.},
+           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=7db9319b9972b60d9670001d1e4afa7d}{%
+           family={Sunstein},
+           familyi={S\bibinitperiod},
+           given={Cass\bibnamedelima R.},
+           giveni={C\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Yale University Press}%
+      }
+      \strng{namehash}{b2d8c57270467b2f3b7883d9403984be}
+      \strng{fullhash}{b2d8c57270467b2f3b7883d9403984be}
+      \strng{fullhashraw}{b2d8c57270467b2f3b7883d9403984be}
+      \strng{bibnamehash}{b2d8c57270467b2f3b7883d9403984be}
+      \strng{authorbibnamehash}{b2d8c57270467b2f3b7883d9403984be}
+      \strng{authornamehash}{b2d8c57270467b2f3b7883d9403984be}
+      \strng{authorfullhash}{b2d8c57270467b2f3b7883d9403984be}
+      \strng{authorfullhashraw}{b2d8c57270467b2f3b7883d9403984be}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Nudge: Improving Decisions about Health, Wealth, and Happiness}
+      \field{year}{2008}
+      \true{nocite}
+    \endentry
+    \entry{Wheelan:2002}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=3a4c6f408c7589e91232d26f9df00109}{%
+           family={Wheelan},
+           familyi={W\bibinitperiod},
+           given={Charles},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {W.W. Norton \& Company}%
+      }
+      \strng{namehash}{3a4c6f408c7589e91232d26f9df00109}
+      \strng{fullhash}{3a4c6f408c7589e91232d26f9df00109}
+      \strng{fullhashraw}{3a4c6f408c7589e91232d26f9df00109}
+      \strng{bibnamehash}{3a4c6f408c7589e91232d26f9df00109}
+      \strng{authorbibnamehash}{3a4c6f408c7589e91232d26f9df00109}
+      \strng{authornamehash}{3a4c6f408c7589e91232d26f9df00109}
+      \strng{authorfullhash}{3a4c6f408c7589e91232d26f9df00109}
+      \strng{authorfullhashraw}{3a4c6f408c7589e91232d26f9df00109}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0393049825}
+      \field{title}{Naked Economics: Undressing the Dismal Science}
+      \field{year}{2002}
+      \true{nocite}
+    \endentry
+    \entry{Zucman:2024}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=3b966b131eabccf3c6ecbdb6fe527f0c}{%
+           family={Zucman},
+           familyi={Z\bibinitperiod},
+           given={Gabriel},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The University of Chicago Press}%
+      }
+      \strng{namehash}{3b966b131eabccf3c6ecbdb6fe527f0c}
+      \strng{fullhash}{3b966b131eabccf3c6ecbdb6fe527f0c}
+      \strng{fullhashraw}{3b966b131eabccf3c6ecbdb6fe527f0c}
+      \strng{bibnamehash}{3b966b131eabccf3c6ecbdb6fe527f0c}
+      \strng{authorbibnamehash}{3b966b131eabccf3c6ecbdb6fe527f0c}
+      \strng{authornamehash}{3b966b131eabccf3c6ecbdb6fe527f0c}
+      \strng{authorfullhash}{3b966b131eabccf3c6ecbdb6fe527f0c}
+      \strng{authorfullhashraw}{3b966b131eabccf3c6ecbdb6fe527f0c}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780226245560}
+      \field{title}{The Hidden Wealth of Nations: The Scourge of Tax Havens}
+      \field{year}{2024}
+      \true{nocite}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
